@@ -1,0 +1,3882 @@
+[
+  {
+    "base": "achieve",
+    "s_form": "achieves",
+    "past": "achieved (d)",
+    "past_participle": "achieved (d)",
+    "ing": "achieving",
+    "meaning": "lograr",
+    "example": "I achieve my goals every year.",
+    "translation": "Logro mis metas cada año."
+  },
+  {
+    "base": "acquire",
+    "s_form": "acquires",
+    "past": "acquired (d)",
+    "past_participle": "acquired (d)",
+    "ing": "acquiring",
+    "meaning": "adquirir",
+    "example": "She acquired new skills online.",
+    "translation": "Ella adquirió nuevas habilidades en línea."
+  },
+  {
+    "base": "adapt",
+    "s_form": "adapts",
+    "past": "adapted (ed)",
+    "past_participle": "adapted (ed)",
+    "ing": "adapting",
+    "meaning": "adaptar",
+    "example": "Animals adapt to climate change.",
+    "translation": "Los animales se adaptan al cambio climático."
+  },
+  {
+    "base": "admit",
+    "s_form": "admits",
+    "past": "admitted (ed)",
+    "past_participle": "admitted (ed)",
+    "ing": "admitting",
+    "meaning": "admitir",
+    "example": "He admitted his mistake publicly.",
+    "translation": "Él admitió su error públicamente."
+  },
+  {
+    "base": "advance",
+    "s_form": "advances",
+    "past": "advanced (t)",
+    "past_participle": "advanced (t)",
+    "ing": "advancing",
+    "meaning": "avanzar",
+    "example": "Technology advances rapidly today.",
+    "translation": "La tecnología avanza rápidamente hoy."
+  },
+  {
+    "base": "advertise",
+    "s_form": "advertises",
+    "past": "advertised (d)",
+    "past_participle": "advertised (d)",
+    "ing": "advertising",
+    "meaning": "anunciar",
+    "example": "Companies advertise on social media.",
+    "translation": "Las empresas anuncian en redes sociales."
+  },
+  {
+    "base": "afford",
+    "s_form": "affords",
+    "past": "afforded (ed)",
+    "past_participle": "afforded (ed)",
+    "ing": "affording",
+    "meaning": "permitirse",
+    "example": "I can't afford luxury cars.",
+    "translation": "No me puedo permitir autos de lujo."
+  },
+  {
+    "base": "analyze",
+    "s_form": "analyzes",
+    "past": "analyzed (d)",
+    "past_participle": "analyzed (d)",
+    "ing": "analyzing",
+    "meaning": "analizar",
+    "example": "Scientists analyze DNA samples.",
+    "translation": "Los científicos analizan muestras de ADN."
+  },
+  {
+    "base": "announce",
+    "s_form": "announces",
+    "past": "announced (t)",
+    "past_participle": "announced (t)",
+    "ing": "announcing",
+    "meaning": "anunciar",
+    "example": "The CEO announced new policies.",
+    "translation": "El CEO anunció nuevas políticas."
+  },
+  {
+    "base": "anticipate",
+    "s_form": "anticipates",
+    "past": "anticipated (ed)",
+    "past_participle": "anticipated (ed)",
+    "ing": "anticipating",
+    "meaning": "anticipar",
+    "example": "We anticipate heavy traffic today.",
+    "translation": "Anticipamos tráfico pesado hoy."
+  },
+  {
+    "base": "apologize",
+    "s_form": "apologizes",
+    "past": "apologized (d)",
+    "past_participle": "apologized (d)",
+    "ing": "apologizing",
+    "meaning": "disculparse",
+    "example": "She apologized for being late.",
+    "translation": "Ella se disculpó por llegar tarde."
+  },
+  {
+    "base": "appear",
+    "s_form": "appears",
+    "past": "appeared (d)",
+    "past_participle": "appeared (d)",
+    "ing": "appearing",
+    "meaning": "aparecer",
+    "example": "Stars appear after sunset.",
+    "translation": "Las estrellas aparecen después del atardecer."
+  },
+  {
+    "base": "appreciate",
+    "s_form": "appreciates",
+    "past": "appreciated (ed)",
+    "past_participle": "appreciated (ed)",
+    "ing": "appreciating",
+    "meaning": "apreciar",
+    "example": "I appreciate your honest feedback.",
+    "translation": "Aprecio tu comentario honesto."
+  },
+  {
+    "base": "approach",
+    "s_form": "approaches",
+    "past": "approached (t)",
+    "past_participle": "approached (t)",
+    "ing": "approaching",
+    "meaning": "acercarse",
+    "example": "The deadline is approaching fast.",
+    "translation": "La fecha límite se acerca rápido."
+  },
+  {
+    "base": "arrange",
+    "s_form": "arranges",
+    "past": "arranged (d)",
+    "past_participle": "arranged (d)",
+    "ing": "arranging",
+    "meaning": "organizar",
+    "example": "They arranged flowers beautifully.",
+    "translation": "Arreglaron las flores hermosamente."
+  },
+  {
+    "base": "associate",
+    "s_form": "associates",
+    "past": "associated (ed)",
+    "past_participle": "associated (ed)",
+    "ing": "associating",
+    "meaning": "asociar",
+    "example": "I associate pizza with Italy.",
+    "translation": "Asocio la pizza con Italia."
+  },
+  {
+    "base": "assume",
+    "s_form": "assumes",
+    "past": "assumed (d)",
+    "past_participle": "assumed (d)",
+    "ing": "assuming",
+    "meaning": "asumir",
+    "example": "Don't assume everyone agrees.",
+    "translation": "No asumas que todos están de acuerdo."
+  },
+  {
+    "base": "attach",
+    "s_form": "attaches",
+    "past": "attached (t)",
+    "past_participle": "attached (t)",
+    "ing": "attaching",
+    "meaning": "adjuntar",
+    "example": "Please attach the document here.",
+    "translation": "Por favor adjunta el documento aquí."
+  },
+  {
+    "base": "attempt",
+    "s_form": "attempts",
+    "past": "attempted (ed)",
+    "past_participle": "attempted (ed)",
+    "ing": "attempting",
+    "meaning": "intentar",
+    "example": "He attempted the difficult puzzle.",
+    "translation": "Él intentó el rompecabezas difícil."
+  },
+  {
+    "base": "attend",
+    "s_form": "attends",
+    "past": "attended (ed)",
+    "past_participle": "attended (ed)",
+    "ing": "attending",
+    "meaning": "asistir",
+    "example": "She attended the virtual conference.",
+    "translation": "Ella asistió a la conferencia virtual."
+  },
+  {
+    "base": "attract",
+    "s_form": "attracts",
+    "past": "attracted (ed)",
+    "past_participle": "attracted (ed)",
+    "ing": "attracting",
+    "meaning": "atraer",
+    "example": "Flowers attract buzzing bees.",
+    "translation": "Las flores atraen abejas zumbantes."
+  },
+  {
+    "base": "avoid",
+    "s_form": "avoids",
+    "past": "avoided (ed)",
+    "past_participle": "avoided (ed)",
+    "ing": "avoiding",
+    "meaning": "evitar",
+    "example": "I avoid crowded places now.",
+    "translation": "Evito lugares abarrotados ahora."
+  },
+  {
+    "base": "balance",
+    "s_form": "balances",
+    "past": "balanced (t)",
+    "past_participle": "balanced (t)",
+    "ing": "balancing",
+    "meaning": "equilibrar",
+    "example": "She balanced work and family.",
+    "translation": "Ella equilibró trabajo y familia."
+  },
+  {
+    "base": "behave",
+    "s_form": "behaves",
+    "past": "behaved (d)",
+    "past_participle": "behaved (d)",
+    "ing": "behaving",
+    "meaning": "comportarse",
+    "example": "The children behaved surprisingly well.",
+    "translation": "Los niños se comportaron sorprendentemente bien."
+  },
+  {
+    "base": "belong",
+    "s_form": "belongs",
+    "past": "belonged (d)",
+    "past_participle": "belonged (d)",
+    "ing": "belonging",
+    "meaning": "pertenecer",
+    "example": "This book belongs to me.",
+    "translation": "Este libro me pertenece."
+  },
+  {
+    "base": "benefit",
+    "s_form": "benefits",
+    "past": "benefited (ed)",
+    "past_participle": "benefited (ed)",
+    "ing": "benefiting",
+    "meaning": "beneficiar",
+    "example": "Exercise benefits your health greatly.",
+    "translation": "El ejercicio beneficia mucho tu salud."
+  },
+  {
+    "base": "borrow",
+    "s_form": "borrows",
+    "past": "borrowed (d)",
+    "past_participle": "borrowed (d)",
+    "ing": "borrowing",
+    "meaning": "pedir prestado",
+    "example": "Can I borrow your pen?",
+    "translation": "¿Puedo pedir prestado tu bolígrafo?"
+  },
+  {
+    "base": "breathe",
+    "s_form": "breathes",
+    "past": "breathed (d)",
+    "past_participle": "breathed (d)",
+    "ing": "breathing",
+    "meaning": "respirar",
+    "example": "Deep breathing calms my mind.",
+    "translation": "La respiración profunda calma mi mente."
+  },
+  {
+    "base": "calculate",
+    "s_form": "calculates",
+    "past": "calculated (ed)",
+    "past_participle": "calculated (ed)",
+    "ing": "calculating",
+    "meaning": "calcular",
+    "example": "The computer calculated instantly.",
+    "translation": "La computadora calculó instantáneamente."
+  },
+  {
+    "base": "cancel",
+    "s_form": "cancels",
+    "past": "canceled (d)",
+    "past_participle": "canceled (d)",
+    "ing": "canceling",
+    "meaning": "cancelar",
+    "example": "We canceled the outdoor picnic.",
+    "translation": "Cancelamos el picnic al aire libre."
+  },
+  {
+    "base": "capture",
+    "s_form": "captures",
+    "past": "captured (d)",
+    "past_participle": "captured (d)",
+    "ing": "capturing",
+    "meaning": "capturar",
+    "example": "The camera captured perfect moments.",
+    "translation": "La cámara capturó momentos perfectos."
+  },
+  {
+    "base": "celebrate",
+    "s_form": "celebrates",
+    "past": "celebrated (ed)",
+    "past_participle": "celebrated (ed)",
+    "ing": "celebrating",
+    "meaning": "celebrar",
+    "example": "We celebrated her birthday yesterday.",
+    "translation": "Celebramos su cumpleaños ayer."
+  },
+  {
+    "base": "challenge",
+    "s_form": "challenges",
+    "past": "challenged (d)",
+    "past_participle": "challenged (d)",
+    "ing": "challenging",
+    "meaning": "desafiar",
+    "example": "This puzzle challenges my brain.",
+    "translation": "Este rompecabezas desafía mi cerebro."
+  },
+  {
+    "base": "characterize",
+    "s_form": "characterizes",
+    "past": "characterized (d)",
+    "past_participle": "characterized (d)",
+    "ing": "characterizing",
+    "meaning": "caracterizar",
+    "example": "Bold colors characterize her artwork.",
+    "translation": "Los colores audaces caracterizan su arte."
+  },
+  {
+    "base": "claim",
+    "s_form": "claims",
+    "past": "claimed (d)",
+    "past_participle": "claimed (d)",
+    "ing": "claiming",
+    "meaning": "reclamar",
+    "example": "He claimed the prize money.",
+    "translation": "Él reclamó el dinero del premio."
+  },
+  {
+    "base": "classify",
+    "s_form": "classifies",
+    "past": "classified (d)",
+    "past_participle": "classified (d)",
+    "ing": "classifying",
+    "meaning": "clasificar",
+    "example": "We classify animals by species.",
+    "translation": "Clasificamos los animales por especie."
+  },
+  {
+    "base": "collect",
+    "s_form": "collects",
+    "past": "collected (ed)",
+    "past_participle": "collected (ed)",
+    "ing": "collecting",
+    "meaning": "recoger",
+    "example": "She collected rare stamps.",
+    "translation": "Ella coleccionó sellos raros."
+  },
+  {
+    "base": "combine",
+    "s_form": "combines",
+    "past": "combined (d)",
+    "past_participle": "combined (d)",
+    "ing": "combining",
+    "meaning": "combinar",
+    "example": "We combined our resources together.",
+    "translation": "Combinamos nuestros recursos."
+  },
+  {
+    "base": "comment",
+    "s_form": "comments",
+    "past": "commented (ed)",
+    "past_participle": "commented (ed)",
+    "ing": "commenting",
+    "meaning": "comentar",
+    "example": "Users commented on the post.",
+    "translation": "Los usuarios comentaron en la publicación."
+  },
+  {
+    "base": "commit",
+    "s_form": "commits",
+    "past": "committed (ed)",
+    "past_participle": "committed (ed)",
+    "ing": "committing",
+    "meaning": "comprometer",
+    "example": "She committed to daily exercise.",
+    "translation": "Ella se comprometió a ejercitarse diariamente."
+  },
+  {
+    "base": "communicate",
+    "s_form": "communicates",
+    "past": "communicated (ed)",
+    "past_participle": "communicated (ed)",
+    "ing": "communicating",
+    "meaning": "comunicar",
+    "example": "Teams communicate through video calls.",
+    "translation": "Los equipos se comunican por videollamadas."
+  },
+  {
+    "base": "compare",
+    "s_form": "compares",
+    "past": "compared (d)",
+    "past_participle": "compared (d)",
+    "ing": "comparing",
+    "meaning": "comparar",
+    "example": "She compared different phone models.",
+    "translation": "Ella comparó diferentes modelos de teléfono."
+  },
+  {
+    "base": "compete",
+    "s_form": "competes",
+    "past": "competed (ed)",
+    "past_participle": "competed (ed)",
+    "ing": "competing",
+    "meaning": "competir",
+    "example": "Athletes competed for gold medals.",
+    "translation": "Los atletas compitieron por medallas de oro."
+  },
+  {
+    "base": "complain",
+    "s_form": "complains",
+    "past": "complained (d)",
+    "past_participle": "complained (d)",
+    "ing": "complaining",
+    "meaning": "quejarse",
+    "example": "Customers complained about slow service.",
+    "translation": "Los clientes se quejaron del servicio lento."
+  },
+  {
+    "base": "complete",
+    "s_form": "completes",
+    "past": "completed (ed)",
+    "past_participle": "completed (ed)",
+    "ing": "completing",
+    "meaning": "completar",
+    "example": "I completed the marathon successfully.",
+    "translation": "Completé el maratón exitosamente."
+  },
+  {
+    "base": "concentrate",
+    "s_form": "concentrates",
+    "past": "concentrated (ed)",
+    "past_participle": "concentrated (ed)",
+    "ing": "concentrating",
+    "meaning": "concentrarse",
+    "example": "Students concentrated during the exam.",
+    "translation": "Los estudiantes se concentraron durante el examen."
+  },
+  {
+    "base": "concern",
+    "s_form": "concerns",
+    "past": "concerned (d)",
+    "past_participle": "concerned (d)",
+    "ing": "concerning",
+    "meaning": "preocupar",
+    "example": "This news concerns everyone here.",
+    "translation": "Esta noticia preocupa a todos aquí."
+  },
+  {
+    "base": "conclude",
+    "s_form": "concludes",
+    "past": "concluded (ed)",
+    "past_participle": "concluded (ed)",
+    "ing": "concluding",
+    "meaning": "concluir",
+    "example": "The meeting concluded at noon.",
+    "translation": "La reunión concluyó al mediodía."
+  },
+  {
+    "base": "conduct",
+    "s_form": "conducts",
+    "past": "conducted (ed)",
+    "past_participle": "conducted (ed)",
+    "ing": "conducting",
+    "meaning": "conducir",
+    "example": "Scientists conducted important research.",
+    "translation": "Los científicos condujeron investigación importante."
+  },
+  {
+    "base": "confirm",
+    "s_form": "confirms",
+    "past": "confirmed (d)",
+    "past_participle": "confirmed (d)",
+    "ing": "confirming",
+    "meaning": "confirmar",
+    "example": "Please confirm your attendance today.",
+    "translation": "Por favor confirma tu asistencia hoy."
+  },
+  {
+    "base": "connect",
+    "s_form": "connects",
+    "past": "connected (ed)",
+    "past_participle": "connected (ed)",
+    "ing": "connecting",
+    "meaning": "conectar",
+    "example": "WiFi connects devices to internet.",
+    "translation": "El WiFi conecta dispositivos a internet."
+  },
+  {
+    "base": "consider",
+    "s_form": "considers",
+    "past": "considered (d)",
+    "past_participle": "considered (d)",
+    "ing": "considering",
+    "meaning": "considerar",
+    "example": "I'm considering a career change.",
+    "translation": "Estoy considerando un cambio de carrera."
+  },
+  {
+    "base": "consist",
+    "s_form": "consists",
+    "past": "consisted (ed)",
+    "past_participle": "consisted (ed)",
+    "ing": "consisting",
+    "meaning": "consistir",
+    "example": "Breakfast consisted of toast only.",
+    "translation": "El desayuno consistió solo en tostadas."
+  },
+  {
+    "base": "construct",
+    "s_form": "constructs",
+    "past": "constructed (ed)",
+    "past_participle": "constructed (ed)",
+    "ing": "constructing",
+    "meaning": "construir",
+    "example": "Workers constructed the new bridge.",
+    "translation": "Los trabajadores construyeron el puente nuevo."
+  },
+  {
+    "base": "contain",
+    "s_form": "contains",
+    "past": "contained (d)",
+    "past_participle": "contained (d)",
+    "ing": "containing",
+    "meaning": "contener",
+    "example": "This box contains fragile items.",
+    "translation": "Esta caja contiene artículos frágiles."
+  },
+  {
+    "base": "contribute",
+    "s_form": "contributes",
+    "past": "contributed (ed)",
+    "past_participle": "contributed (ed)",
+    "ing": "contributing",
+    "meaning": "contribuir",
+    "example": "Everyone contributed to the project.",
+    "translation": "Todos contribuyeron al proyecto."
+  },
+  {
+    "base": "control",
+    "s_form": "controls",
+    "past": "controlled (d)",
+    "past_participle": "controlled (d)",
+    "ing": "controlling",
+    "meaning": "controlar",
+    "example": "She controlled the remote carefully.",
+    "translation": "Ella controló el control remoto cuidadosamente."
+  },
+  {
+    "base": "convert",
+    "s_form": "converts",
+    "past": "converted (ed)",
+    "past_participle": "converted (ed)",
+    "ing": "converting",
+    "meaning": "convertir",
+    "example": "We converted files to PDF.",
+    "translation": "Convertimos archivos a PDF."
+  },
+  {
+    "base": "convince",
+    "s_form": "convinces",
+    "past": "convinced (t)",
+    "past_participle": "convinced (t)",
+    "ing": "convincing",
+    "meaning": "convencer",
+    "example": "She convinced me to join.",
+    "translation": "Ella me convenció de unirme."
+  },
+  {
+    "base": "cooperate",
+    "s_form": "cooperates",
+    "past": "cooperated (ed)",
+    "past_participle": "cooperated (ed)",
+    "ing": "cooperating",
+    "meaning": "cooperar",
+    "example": "Countries cooperated during the crisis.",
+    "translation": "Los países cooperaron durante la crisis."
+  },
+  {
+    "base": "correct",
+    "s_form": "corrects",
+    "past": "corrected (ed)",
+    "past_participle": "corrected (ed)",
+    "ing": "correcting",
+    "meaning": "corregir",
+    "example": "Teachers corrected student papers.",
+    "translation": "Los maestros corrigieron papeles de estudiantes."
+  },
+  {
+    "base": "correspond",
+    "s_form": "corresponds",
+    "past": "corresponded (ed)",
+    "past_participle": "corresponded (ed)",
+    "ing": "corresponding",
+    "meaning": "corresponder",
+    "example": "Colors correspond to different meanings.",
+    "translation": "Los colores corresponden a diferentes significados."
+  },
+  {
+    "base": "criticize",
+    "s_form": "criticizes",
+    "past": "criticized (d)",
+    "past_participle": "criticized (d)",
+    "ing": "criticizing",
+    "meaning": "criticar",
+    "example": "Critics criticized the movie harshly.",
+    "translation": "Los críticos criticaron la película duramente."
+  },
+  {
+    "base": "damage",
+    "s_form": "damages",
+    "past": "damaged (d)",
+    "past_participle": "damaged (d)",
+    "ing": "damaging",
+    "meaning": "dañar",
+    "example": "The storm damaged many houses.",
+    "translation": "La tormenta dañó muchas casas."
+  },
+  {
+    "base": "debate",
+    "s_form": "debates",
+    "past": "debated (ed)",
+    "past_participle": "debated (ed)",
+    "ing": "debating",
+    "meaning": "debatir",
+    "example": "Politicians debated for three hours.",
+    "translation": "Los políticos debatieron por tres horas."
+  },
+  {
+    "base": "decide",
+    "s_form": "decides",
+    "past": "decided (ed)",
+    "past_participle": "decided (ed)",
+    "ing": "deciding",
+    "meaning": "decidir",
+    "example": "We decided to stay home.",
+    "translation": "Decidimos quedarnos en casa."
+  },
+  {
+    "base": "decrease",
+    "s_form": "decreases",
+    "past": "decreased (t)",
+    "past_participle": "decreased (t)",
+    "ing": "decreasing",
+    "meaning": "disminuir",
+    "example": "Prices decreased significantly this month.",
+    "translation": "Los precios disminuyeron significativamente este mes."
+  },
+  {
+    "base": "defend",
+    "s_form": "defends",
+    "past": "defended (ed)",
+    "past_participle": "defended (ed)",
+    "ing": "defending",
+    "meaning": "defender",
+    "example": "Lawyers defended their innocent client.",
+    "translation": "Los abogados defendieron a su cliente inocente."
+  },
+  {
+    "base": "define",
+    "s_form": "defines",
+    "past": "defined (d)",
+    "past_participle": "defined (d)",
+    "ing": "defining",
+    "meaning": "definir",
+    "example": "Dictionaries define words clearly.",
+    "translation": "Los diccionarios definen palabras claramente."
+  },
+  {
+    "base": "deliver",
+    "s_form": "delivers",
+    "past": "delivered (d)",
+    "past_participle": "delivered (d)",
+    "ing": "delivering",
+    "meaning": "entregar",
+    "example": "Couriers delivered packages quickly.",
+    "translation": "Los mensajeros entregaron paquetes rápidamente."
+  },
+  {
+    "base": "demonstrate",
+    "s_form": "demonstrates",
+    "past": "demonstrated (ed)",
+    "past_participle": "demonstrated (ed)",
+    "ing": "demonstrating",
+    "meaning": "demostrar",
+    "example": "The chef demonstrated cooking techniques.",
+    "translation": "El chef demostró técnicas de cocina."
+  },
+  {
+    "base": "depend",
+    "s_form": "depends",
+    "past": "depended (ed)",
+    "past_participle": "depended (ed)",
+    "ing": "depending",
+    "meaning": "depender",
+    "example": "Success depends on hard work.",
+    "translation": "El éxito depende del trabajo duro."
+  },
+  {
+    "base": "describe",
+    "s_form": "describes",
+    "past": "described (d)",
+    "past_participle": "described (d)",
+    "ing": "describing",
+    "meaning": "describir",
+    "example": "She described her vacation vividly.",
+    "translation": "Ella describió sus vacaciones vívidamente."
+  },
+  {
+    "base": "design",
+    "s_form": "designs",
+    "past": "designed (d)",
+    "past_participle": "designed (d)",
+    "ing": "designing",
+    "meaning": "diseñar",
+    "example": "Architects designed sustainable buildings.",
+    "translation": "Los arquitectos diseñaron edificios sostenibles."
+  },
+  {
+    "base": "destroy",
+    "s_form": "destroys",
+    "past": "destroyed (d)",
+    "past_participle": "destroyed (d)",
+    "ing": "destroying",
+    "meaning": "destruir",
+    "example": "Fire destroyed the ancient library.",
+    "translation": "El fuego destruyó la biblioteca antigua."
+  },
+  {
+    "base": "determine",
+    "s_form": "determines",
+    "past": "determined (d)",
+    "past_participle": "determined (d)",
+    "ing": "determining",
+    "meaning": "determinar",
+    "example": "Tests determine student performance.",
+    "translation": "Las pruebas determinan el rendimiento estudiantil."
+  },
+  {
+    "base": "develop",
+    "s_form": "develops",
+    "past": "developed (t)",
+    "past_participle": "developed (t)",
+    "ing": "developing",
+    "meaning": "desarrollar",
+    "example": "Companies developed innovative software.",
+    "translation": "Las empresas desarrollaron software innovador."
+  },
+  {
+    "base": "differ",
+    "s_form": "differs",
+    "past": "differed (d)",
+    "past_participle": "differed (d)",
+    "ing": "differing",
+    "meaning": "diferir",
+    "example": "Opinions differed on this topic.",
+    "translation": "Las opiniones difirieron en este tema."
+  },
+  {
+    "base": "direct",
+    "s_form": "directs",
+    "past": "directed (ed)",
+    "past_participle": "directed (ed)",
+    "ing": "directing",
+    "meaning": "dirigir",
+    "example": "The GPS directed us home.",
+    "translation": "El GPS nos dirigió a casa."
+  },
+  {
+    "base": "disappear",
+    "s_form": "disappears",
+    "past": "disappeared (d)",
+    "past_participle": "disappeared (d)",
+    "ing": "disappearing",
+    "meaning": "desaparecer",
+    "example": "The magician disappeared behind smoke.",
+    "translation": "El mago desapareció detrás del humo."
+  },
+  {
+    "base": "discover",
+    "s_form": "discovers",
+    "past": "discovered (d)",
+    "past_participle": "discovered (d)",
+    "ing": "discovering",
+    "meaning": "descubrir",
+    "example": "Explorers discovered hidden treasures.",
+    "translation": "Los exploradores descubrieron tesoros escondidos."
+  },
+  {
+    "base": "discuss",
+    "s_form": "discusses",
+    "past": "discussed (t)",
+    "past_participle": "discussed (t)",
+    "ing": "discussing",
+    "meaning": "discutir",
+    "example": "We discussed important business matters.",
+    "translation": "Discutimos asuntos importantes de negocios."
+  },
+  {
+    "base": "distribute",
+    "s_form": "distributes",
+    "past": "distributed (ed)",
+    "past_participle": "distributed (ed)",
+    "ing": "distributing",
+    "meaning": "distribuir",
+    "example": "Volunteers distributed food to families.",
+    "translation": "Los voluntarios distribuyeron comida a familias."
+  },
+  {
+    "base": "divide",
+    "s_form": "divides",
+    "past": "divided (ed)",
+    "past_participle": "divided (ed)",
+    "ing": "dividing",
+    "meaning": "dividir",
+    "example": "Math class divided numbers today.",
+    "translation": "La clase de matemáticas dividió números hoy."
+  },
+  {
+    "base": "document",
+    "s_form": "documents",
+    "past": "documented (ed)",
+    "past_participle": "documented (ed)",
+    "ing": "documenting",
+    "meaning": "documentar",
+    "example": "Journalists documented the historic event.",
+    "translation": "Los periodistas documentaron el evento histórico."
+  },
+  {
+    "base": "dominate",
+    "s_form": "dominates",
+    "past": "dominated (ed)",
+    "past_participle": "dominated (ed)",
+    "ing": "dominating",
+    "meaning": "dominar",
+    "example": "The team dominated the championship.",
+    "translation": "El equipo dominó el campeonato."
+  },
+  {
+    "base": "doubt",
+    "s_form": "doubts",
+    "past": "doubted (ed)",
+    "past_participle": "doubted (ed)",
+    "ing": "doubting",
+    "meaning": "dudar",
+    "example": "Nobody doubted her amazing abilities.",
+    "translation": "Nadie dudó de sus increíbles habilidades."
+  },
+  {
+    "base": "download",
+    "s_form": "downloads",
+    "past": "downloaded (ed)",
+    "past_participle": "downloaded (ed)",
+    "ing": "downloading",
+    "meaning": "descargar",
+    "example": "Students downloaded educational apps.",
+    "translation": "Los estudiantes descargaron aplicaciones educativas."
+  },
+  {
+    "base": "earn",
+    "s_form": "earns",
+    "past": "earned (d)",
+    "past_participle": "earned (d)",
+    "ing": "earning",
+    "meaning": "ganar",
+    "example": "She earned a university degree.",
+    "translation": "Ella ganó un título universitario."
+  },
+  {
+    "base": "educate",
+    "s_form": "educates",
+    "past": "educated (ed)",
+    "past_participle": "educated (ed)",
+    "ing": "educating",
+    "meaning": "educar",
+    "example": "Schools educate future generations.",
+    "translation": "Las escuelas educan a futuras generaciones."
+  },
+  {
+    "base": "eliminate",
+    "s_form": "eliminates",
+    "past": "eliminated (ed)",
+    "past_participle": "eliminated (ed)",
+    "ing": "eliminating",
+    "meaning": "eliminar",
+    "example": "The update eliminated software bugs.",
+    "translation": "La actualización eliminó errores de software."
+  },
+  {
+    "base": "emerge",
+    "s_form": "emerges",
+    "past": "emerged (d)",
+    "past_participle": "emerged (d)",
+    "ing": "emerging",
+    "meaning": "emerger",
+    "example": "New leaders emerged after elections.",
+    "translation": "Nuevos líderes emergieron después de las elecciones."
+  },
+  {
+    "base": "emphasize",
+    "s_form": "emphasizes",
+    "past": "emphasized (d)",
+    "past_participle": "emphasized (d)",
+    "ing": "emphasizing",
+    "meaning": "enfatizar",
+    "example": "The coach emphasized teamwork today.",
+    "translation": "El entrenador enfatizó el trabajo en equipo hoy."
+  },
+  {
+    "base": "enable",
+    "s_form": "enables",
+    "past": "enabled (d)",
+    "past_participle": "enabled (d)",
+    "ing": "enabling",
+    "meaning": "permitir",
+    "example": "Technology enables global communication.",
+    "translation": "La tecnología permite la comunicación global."
+  },
+  {
+    "base": "encourage",
+    "s_form": "encourages",
+    "past": "encouraged (d)",
+    "past_participle": "encouraged (d)",
+    "ing": "encouraging",
+    "meaning": "animar",
+    "example": "Parents encouraged their children.",
+    "translation": "Los padres animaron a sus hijos."
+  },
+  {
+    "base": "engage",
+    "s_form": "engages",
+    "past": "engaged (d)",
+    "past_participle": "engaged (d)",
+    "ing": "engaging",
+    "meaning": "involucrar",
+    "example": "The teacher engaged students actively.",
+    "translation": "El profesor involucró a los estudiantes activamente."
+  },
+  {
+    "base": "enhance",
+    "s_form": "enhances",
+    "past": "enhanced (t)",
+    "past_participle": "enhanced (t)",
+    "ing": "enhancing",
+    "meaning": "mejorar",
+    "example": "Good lighting enhanced the room.",
+    "translation": "La buena iluminación mejoró la habitación."
+  },
+  {
+    "base": "ensure",
+    "s_form": "ensures",
+    "past": "ensured (d)",
+    "past_participle": "ensured (d)",
+    "ing": "ensuring",
+    "meaning": "asegurar",
+    "example": "Locks ensure door security.",
+    "translation": "Las cerraduras aseguran la seguridad de la puerta."
+  },
+  {
+    "base": "enter",
+    "s_form": "enters",
+    "past": "entered (d)",
+    "past_participle": "entered (d)",
+    "ing": "entering",
+    "meaning": "entrar",
+    "example": "Visitors entered the museum freely.",
+    "translation": "Los visitantes entraron al museo libremente."
+  },
+  {
+    "base": "establish",
+    "s_form": "establishes",
+    "past": "established (t)",
+    "past_participle": "established (t)",
+    "ing": "establishing",
+    "meaning": "establecer",
+    "example": "They established a new company.",
+    "translation": "Establecieron una nueva empresa."
+  },
+  {
+    "base": "estimate",
+    "s_form": "estimates",
+    "past": "estimated (ed)",
+    "past_participle": "estimated (ed)",
+    "ing": "estimating",
+    "meaning": "estimar",
+    "example": "Experts estimated the project cost.",
+    "translation": "Los expertos estimaron el costo del proyecto."
+  },
+  {
+    "base": "evaluate",
+    "s_form": "evaluates",
+    "past": "evaluated (ed)",
+    "past_participle": "evaluated (ed)",
+    "ing": "evaluating",
+    "meaning": "evaluar",
+    "example": "Managers evaluated employee performance.",
+    "translation": "Los gerentes evaluaron el rendimiento de empleados."
+  },
+  {
+    "base": "evolve",
+    "s_form": "evolves",
+    "past": "evolved (d)",
+    "past_participle": "evolved (d)",
+    "ing": "evolving",
+    "meaning": "evolucionar",
+    "example": "Technology evolved over decades.",
+    "translation": "La tecnología evolucionó durante décadas."
+  },
+  {
+    "base": "examine",
+    "s_form": "examines",
+    "past": "examined (d)",
+    "past_participle": "examined (d)",
+    "ing": "examining",
+    "meaning": "examinar",
+    "example": "Doctors examined patients thoroughly.",
+    "translation": "Los médicos examinaron a los pacientes a fondo."
+  },
+  {
+    "base": "exceed",
+    "s_form": "exceeds",
+    "past": "exceeded (ed)",
+    "past_participle": "exceeded (ed)",
+    "ing": "exceeding",
+    "meaning": "exceder",
+    "example": "Sales exceeded expectations this year.",
+    "translation": "Las ventas excedieron las expectativas este año."
+  },
+  {
+    "base": "exchange",
+    "s_form": "exchanges",
+    "past": "exchanged (d)",
+    "past_participle": "exchanged (d)",
+    "ing": "exchanging",
+    "meaning": "intercambiar",
+    "example": "Friends exchanged holiday gifts.",
+    "translation": "Los amigos intercambiaron regalos navideños."
+  },
+  {
+    "base": "exclude",
+    "s_form": "excludes",
+    "past": "excluded (ed)",
+    "past_participle": "excluded (ed)",
+    "ing": "excluding",
+    "meaning": "excluir",
+    "example": "The list excluded some names.",
+    "translation": "La lista excluyó algunos nombres."
+  },
+  {
+    "base": "exist",
+    "s_form": "exists",
+    "past": "existed (ed)",
+    "past_participle": "existed (ed)",
+    "ing": "existing",
+    "meaning": "existir",
+    "example": "Dinosaurs existed long ago.",
+    "translation": "Los dinosaurios existieron hace mucho tiempo."
+  },
+  {
+    "base": "expand",
+    "s_form": "expands",
+    "past": "expanded (ed)",
+    "past_participle": "expanded (ed)",
+    "ing": "expanding",
+    "meaning": "expandir",
+    "example": "The company expanded globally.",
+    "translation": "La empresa se expandió globalmente."
+  },
+  {
+    "base": "expect",
+    "s_form": "expects",
+    "past": "expected (ed)",
+    "past_participle": "expected (ed)",
+    "ing": "expecting",
+    "meaning": "esperar",
+    "example": "We expected better weather today.",
+    "translation": "Esperábamos mejor clima hoy."
+  },
+  {
+    "base": "experience",
+    "s_form": "experiences",
+    "past": "experienced (t)",
+    "past_participle": "experienced (t)",
+    "ing": "experiencing",
+    "meaning": "experimentar",
+    "example": "Travelers experienced different cultures.",
+    "translation": "Los viajeros experimentaron diferentes culturas."
+  },
+  {
+    "base": "explain",
+    "s_form": "explains",
+    "past": "explained (d)",
+    "past_participle": "explained (d)",
+    "ing": "explaining",
+    "meaning": "explicar",
+    "example": "Teachers explained complex concepts.",
+    "translation": "Los maestros explicaron conceptos complejos."
+  },
+  {
+    "base": "explore",
+    "s_form": "explores",
+    "past": "explored (d)",
+    "past_participle": "explored (d)",
+    "ing": "exploring",
+    "meaning": "explorar",
+    "example": "Adventurers explored unknown islands.",
+    "translation": "Los aventureros exploraron islas desconocidas."
+  },
+  {
+    "base": "express",
+    "s_form": "expresses",
+    "past": "expressed (t)",
+    "past_participle": "expressed (t)",
+    "ing": "expressing",
+    "meaning": "expresar",
+    "example": "Artists expressed emotions through art.",
+    "translation": "Los artistas expresaron emociones mediante el arte."
+  },
+  {
+    "base": "extend",
+    "s_form": "extends",
+    "past": "extended (ed)",
+    "past_participle": "extended (ed)",
+    "ing": "extending",
+    "meaning": "extender",
+    "example": "The boss extended the deadline.",
+    "translation": "El jefe extendió la fecha límite."
+  },
+  {
+    "base": "facilitate",
+    "s_form": "facilitates",
+    "past": "facilitated (ed)",
+    "past_participle": "facilitated (ed)",
+    "ing": "facilitating",
+    "meaning": "facilitar",
+    "example": "Tools facilitate daily tasks.",
+    "translation": "Las herramientas facilitan tareas diarias."
+  },
+  {
+    "base": "focus",
+    "s_form": "focuses",
+    "past": "focused (t)",
+    "past_participle": "focused (t)",
+    "ing": "focusing",
+    "meaning": "enfocar",
+    "example": "Students focused during exams.",
+    "translation": "Los estudiantes se enfocaron durante los exámenes."
+  },
+  {
+    "base": "form",
+    "s_form": "forms",
+    "past": "formed (d)",
+    "past_participle": "formed (d)",
+    "ing": "forming",
+    "meaning": "formar",
+    "example": "Clouds formed in the sky.",
+    "translation": "Las nubes se formaron en el cielo."
+  },
+  {
+    "base": "fulfill",
+    "s_form": "fulfills",
+    "past": "fulfilled (d)",
+    "past_participle": "fulfilled (d)",
+    "ing": "fulfilling",
+    "meaning": "cumplir",
+    "example": "She fulfilled her promises.",
+    "translation": "Ella cumplió sus promesas."
+  },
+  {
+    "base": "function",
+    "s_form": "functions",
+    "past": "functioned (d)",
+    "past_participle": "functioned (d)",
+    "ing": "functioning",
+    "meaning": "funcionar",
+    "example": "The machine functioned perfectly.",
+    "translation": "La máquina funcionó perfectamente."
+  },
+  {
+    "base": "gain",
+    "s_form": "gains",
+    "past": "gained (d)",
+    "past_participle": "gained (d)",
+    "ing": "gaining",
+    "meaning": "ganar",
+    "example": "Investors gained significant profits.",
+    "translation": "Los inversionistas ganaron ganancias significativas."
+  },
+  {
+    "base": "generate",
+    "s_form": "generates",
+    "past": "generated (ed)",
+    "past_participle": "generated (ed)",
+    "ing": "generating",
+    "meaning": "generar",
+    "example": "Solar panels generate electricity.",
+    "translation": "Los paneles solares generan electricidad."
+  },
+  {
+    "base": "govern",
+    "s_form": "governs",
+    "past": "governed (d)",
+    "past_participle": "governed (d)",
+    "ing": "governing",
+    "meaning": "gobernar",
+    "example": "Leaders governed the country wisely.",
+    "translation": "Los líderes gobernaron el país sabiamente."
+  },
+  {
+    "base": "graduate",
+    "s_form": "graduates",
+    "past": "graduated (ed)",
+    "past_participle": "graduated (ed)",
+    "ing": "graduating",
+    "meaning": "graduarse",
+    "example": "She graduated from university.",
+    "translation": "Ella se graduó de la universidad."
+  },
+  {
+    "base": "grow",
+    "s_form": "grows",
+    "past": "grew (d)",
+    "past_participle": "grown (n)",
+    "ing": "growing",
+    "meaning": "crecer",
+    "example": "Plants grew quickly after rain.",
+    "translation": "Las plantas crecieron rápido después de la lluvia."
+  },
+  {
+    "base": "guarantee",
+    "s_form": "guarantees",
+    "past": "guaranteed (d)",
+    "past_participle": "guaranteed (d)",
+    "ing": "guaranteeing",
+    "meaning": "garantizar",
+    "example": "The warranty guaranteed repairs.",
+    "translation": "La garantía garantizó reparaciones."
+  },
+  {
+    "base": "guide",
+    "s_form": "guides",
+    "past": "guided (ed)",
+    "past_participle": "guided (ed)",
+    "ing": "guiding",
+    "meaning": "guiar",
+    "example": "Tour guides guided visitors.",
+    "translation": "Los guías turísticos guiaron a los visitantes."
+  },
+  {
+    "base": "handle",
+    "s_form": "handles",
+    "past": "handled (d)",
+    "past_participle": "handled (d)",
+    "ing": "handling",
+    "meaning": "manejar",
+    "example": "She handled the situation calmly.",
+    "translation": "Ella manejó la situación con calma."
+  },
+  {
+    "base": "happen",
+    "s_form": "happens",
+    "past": "happened (d)",
+    "past_participle": "happened (d)",
+    "ing": "happening",
+    "meaning": "suceder",
+    "example": "Accidents happened unexpectedly.",
+    "translation": "Los accidentes sucedieron inesperadamente."
+  },
+  {
+    "base": "harm",
+    "s_form": "harms",
+    "past": "harmed (d)",
+    "past_participle": "harmed (d)",
+    "ing": "harming",
+    "meaning": "dañar",
+    "example": "Pollution harmed the environment.",
+    "translation": "La contaminación dañó el medio ambiente."
+  },
+  {
+    "base": "hesitate",
+    "s_form": "hesitates",
+    "past": "hesitated (ed)",
+    "past_participle": "hesitated (ed)",
+    "ing": "hesitating",
+    "meaning": "dudar",
+    "example": "She hesitated before answering.",
+    "translation": "Ella dudó antes de responder."
+  },
+  {
+    "base": "highlight",
+    "s_form": "highlights",
+    "past": "highlighted (ed)",
+    "past_participle": "highlighted (ed)",
+    "ing": "highlighting",
+    "meaning": "destacar",
+    "example": "The report highlighted key issues.",
+    "translation": "El reporte destacó asuntos clave."
+  },
+  {
+    "base": "identify",
+    "s_form": "identifies",
+    "past": "identified (d)",
+    "past_participle": "identified (d)",
+    "ing": "identifying",
+    "meaning": "identificar",
+    "example": "Scientists identified new species.",
+    "translation": "Los científicos identificaron nuevas especies."
+  },
+  {
+    "base": "ignore",
+    "s_form": "ignores",
+    "past": "ignored (d)",
+    "past_participle": "ignored (d)",
+    "ing": "ignoring",
+    "meaning": "ignorar",
+    "example": "He ignored the warning signs.",
+    "translation": "Él ignoró las señales de advertencia."
+  },
+  {
+    "base": "illustrate",
+    "s_form": "illustrates",
+    "past": "illustrated (ed)",
+    "past_participle": "illustrated (ed)",
+    "ing": "illustrating",
+    "meaning": "ilustrar",
+    "example": "The book illustrated the story.",
+    "translation": "El libro ilustró la historia."
+  },
+  {
+    "base": "imagine",
+    "s_form": "imagines",
+    "past": "imagined (d)",
+    "past_participle": "imagined (d)",
+    "ing": "imagining",
+    "meaning": "imaginar",
+    "example": "Children imagined magical worlds.",
+    "translation": "Los niños imaginaron mundos mágicos."
+  },
+  {
+    "base": "implement",
+    "s_form": "implements",
+    "past": "implemented (ed)",
+    "past_participle": "implemented (ed)",
+    "ing": "implementing",
+    "meaning": "implementar",
+    "example": "Schools implemented new rules.",
+    "translation": "Las escuelas implementaron nuevas reglas."
+  },
+  {
+    "base": "imply",
+    "s_form": "implies",
+    "past": "implied (d)",
+    "past_participle": "implied (d)",
+    "ing": "implying",
+    "meaning": "insinuar",
+    "example": "His tone implied disagreement.",
+    "translation": "Su tono insinuó desacuerdo."
+  },
+  {
+    "base": "improve",
+    "s_form": "improves",
+    "past": "improved (d)",
+    "past_participle": "improved (d)",
+    "ing": "improving",
+    "meaning": "mejorar",
+    "example": "Practice improved her skills.",
+    "translation": "La práctica mejoró sus habilidades."
+  },
+  {
+    "base": "include",
+    "s_form": "includes",
+    "past": "included (ed)",
+    "past_participle": "included (ed)",
+    "ing": "including",
+    "meaning": "incluir",
+    "example": "The price included breakfast.",
+    "translation": "El precio incluyó desayuno."
+  },
+  {
+    "base": "incorporate",
+    "s_form": "incorporates",
+    "past": "incorporated (ed)",
+    "past_participle": "incorporated (ed)",
+    "ing": "incorporating",
+    "meaning": "incorporar",
+    "example": "Chefs incorporated local ingredients.",
+    "translation": "Los chefs incorporaron ingredientes locales."
+  },
+  {
+    "base": "increase",
+    "s_form": "increases",
+    "past": "increased (t)",
+    "past_participle": "increased (t)",
+    "ing": "increasing",
+    "meaning": "aumentar",
+    "example": "Sales increased last quarter.",
+    "translation": "Las ventas aumentaron el último trimestre."
+  },
+  {
+    "base": "indicate",
+    "s_form": "indicates",
+    "past": "indicated (ed)",
+    "past_participle": "indicated (ed)",
+    "ing": "indicating",
+    "meaning": "indicar",
+    "example": "Maps indicated the correct route.",
+    "translation": "Los mapas indicaron la ruta correcta."
+  },
+  {
+    "base": "influence",
+    "s_form": "influences",
+    "past": "influenced (t)",
+    "past_participle": "influenced (t)",
+    "ing": "influencing",
+    "meaning": "influir",
+    "example": "Media influences public opinion.",
+    "translation": "Los medios influyen en la opinión pública."
+  },
+  {
+    "base": "inform",
+    "s_form": "informs",
+    "past": "informed (d)",
+    "past_participle": "informed (d)",
+    "ing": "informing",
+    "meaning": "informar",
+    "example": "News informed citizens promptly.",
+    "translation": "Las noticias informaron a los ciudadanos rápidamente."
+  },
+  {
+    "base": "initiate",
+    "s_form": "initiates",
+    "past": "initiated (ed)",
+    "past_participle": "initiated (ed)",
+    "ing": "initiating",
+    "meaning": "iniciar",
+    "example": "She initiated the conversation.",
+    "translation": "Ella inició la conversación."
+  },
+  {
+    "base": "injure",
+    "s_form": "injures",
+    "past": "injured (d)",
+    "past_participle": "injured (d)",
+    "ing": "injuring",
+    "meaning": "lesionar",
+    "example": "The accident injured two people.",
+    "translation": "El accidente lesionó a dos personas."
+  },
+  {
+    "base": "innovate",
+    "s_form": "innovates",
+    "past": "innovated (ed)",
+    "past_participle": "innovated (ed)",
+    "ing": "innovating",
+    "meaning": "innovar",
+    "example": "Companies innovated constantly.",
+    "translation": "Las empresas innovaron constantemente."
+  },
+  {
+    "base": "insist",
+    "s_form": "insists",
+    "past": "insisted (ed)",
+    "past_participle": "insisted (ed)",
+    "ing": "insisting",
+    "meaning": "insistir",
+    "example": "He insisted on paying the bill.",
+    "translation": "Él insistió en pagar la cuenta."
+  },
+  {
+    "base": "inspire",
+    "s_form": "inspires",
+    "past": "inspired (d)",
+    "past_participle": "inspired (d)",
+    "ing": "inspiring",
+    "meaning": "inspirar",
+    "example": "Her speech inspired many people.",
+    "translation": "Su discurso inspiró a muchas personas."
+  },
+  {
+    "base": "install",
+    "s_form": "installs",
+    "past": "installed (d)",
+    "past_participle": "installed (d)",
+    "ing": "installing",
+    "meaning": "instalar",
+    "example": "Technicians installed new software.",
+    "translation": "Los técnicos instalaron software nuevo."
+  },
+  {
+    "base": "instruct",
+    "s_form": "instructs",
+    "past": "instructed (ed)",
+    "past_participle": "instructed (ed)",
+    "ing": "instructing",
+    "meaning": "instruir",
+    "example": "Coaches instructed players carefully.",
+    "translation": "Los entrenadores instruyeron a los jugadores cuidadosamente."
+  },
+  {
+    "base": "integrate",
+    "s_form": "integrates",
+    "past": "integrated (ed)",
+    "past_participle": "integrated (ed)",
+    "ing": "integrating",
+    "meaning": "integrar",
+    "example": "Schools integrated technology.",
+    "translation": "Las escuelas integraron tecnología."
+  },
+  {
+    "base": "intend",
+    "s_form": "intends",
+    "past": "intended (ed)",
+    "past_participle": "intended (ed)",
+    "ing": "intending",
+    "meaning": "tener la intención",
+    "example": "I intended to call you earlier.",
+    "translation": "Tuve la intención de llamarte antes."
+  },
+  {
+    "base": "interact",
+    "s_form": "interacts",
+    "past": "interacted (ed)",
+    "past_participle": "interacted (ed)",
+    "ing": "interacting",
+    "meaning": "interactuar",
+    "example": "Children interacted with each other.",
+    "translation": "Los niños interactuaron entre sí."
+  },
+  {
+    "base": "interpret",
+    "s_form": "interprets",
+    "past": "interpreted (ed)",
+    "past_participle": "interpreted (ed)",
+    "ing": "interpreting",
+    "meaning": "interpretar",
+    "example": "She interpreted the poem beautifully.",
+    "translation": "Ella interpretó el poema bellamente."
+  },
+  {
+    "base": "interrupt",
+    "s_form": "interrupts",
+    "past": "interrupted (ed)",
+    "past_participle": "interrupted (ed)",
+    "ing": "interrupting",
+    "meaning": "interrumpir",
+    "example": "The phone interrupted our meeting.",
+    "translation": "El teléfono interrumpió nuestra reunión."
+  },
+  {
+    "base": "introduce",
+    "s_form": "introduces",
+    "past": "introduced (t)",
+    "past_participle": "introduced (t)",
+    "ing": "introducing",
+    "meaning": "presentar",
+    "example": "He introduced his friend to us.",
+    "translation": "Él nos presentó a su amigo."
+  },
+  {
+    "base": "invest",
+    "s_form": "invests",
+    "past": "invested (ed)",
+    "past_participle": "invested (ed)",
+    "ing": "investing",
+    "meaning": "invertir",
+    "example": "They invested in the stock market.",
+    "translation": "Ellos invirtieron en la bolsa de valores."
+  },
+  {
+    "base": "investigate",
+    "s_form": "investigates",
+    "past": "investigated (ed)",
+    "past_participle": "investigated (ed)",
+    "ing": "investigating",
+    "meaning": "investigar",
+    "example": "Police investigated the crime.",
+    "translation": "La policía investigó el crimen."
+  },
+  {
+    "base": "invite",
+    "s_form": "invites",
+    "past": "invited (ed)",
+    "past_participle": "invited (ed)",
+    "ing": "inviting",
+    "meaning": "invitar",
+    "example": "She invited friends to her party.",
+    "translation": "Ella invitó amigos a su fiesta."
+  },
+  {
+    "base": "involve",
+    "s_form": "involves",
+    "past": "involved (d)",
+    "past_participle": "involved (d)",
+    "ing": "involving",
+    "meaning": "involucrar",
+    "example": "The project involved many people.",
+    "translation": "El proyecto involucró a muchas personas."
+  },
+  {
+    "base": "isolate",
+    "s_form": "isolates",
+    "past": "isolated (ed)",
+    "past_participle": "isolated (ed)",
+    "ing": "isolating",
+    "meaning": "aislar",
+    "example": "Doctors isolated infected patients.",
+    "translation": "Los médicos aislaron a pacientes infectados."
+  },
+  {
+    "base": "join",
+    "s_form": "joins",
+    "past": "joined (d)",
+    "past_participle": "joined (d)",
+    "ing": "joining",
+    "meaning": "unir",
+    "example": "She joined the team last week.",
+    "translation": "Ella se unió al equipo la semana pasada."
+  },
+  {
+    "base": "judge",
+    "s_form": "judges",
+    "past": "judged (d)",
+    "past_participle": "judged (d)",
+    "ing": "judging",
+    "meaning": "juzgar",
+    "example": "Don't judge people too quickly.",
+    "translation": "No juzgues a las personas tan rápido."
+  },
+  {
+    "base": "justify",
+    "s_form": "justifies",
+    "past": "justified (d)",
+    "past_participle": "justified (d)",
+    "ing": "justifying",
+    "meaning": "justificar",
+    "example": "He justified his actions clearly.",
+    "translation": "Él justificó sus acciones claramente."
+  },
+  {
+    "base": "label",
+    "s_form": "labels",
+    "past": "labeled (d)",
+    "past_participle": "labeled (d)",
+    "ing": "labeling",
+    "meaning": "etiquetar",
+    "example": "Workers labeled all the boxes.",
+    "translation": "Los trabajadores etiquetaron todas las cajas."
+  },
+  {
+    "base": "land",
+    "s_form": "lands",
+    "past": "landed (ed)",
+    "past_participle": "landed (ed)",
+    "ing": "landing",
+    "meaning": "aterrizar",
+    "example": "The plane landed safely.",
+    "translation": "El avión aterrizó seguro."
+  },
+  {
+    "base": "last",
+    "s_form": "lasts",
+    "past": "lasted (ed)",
+    "past_participle": "lasted (ed)",
+    "ing": "lasting",
+    "meaning": "durar",
+    "example": "The concert lasted two hours.",
+    "translation": "El concierto duró dos horas."
+  },
+  {
+    "base": "laugh",
+    "s_form": "laughs",
+    "past": "laughed (t)",
+    "past_participle": "laughed (t)",
+    "ing": "laughing",
+    "meaning": "reír",
+    "example": "Everyone laughed at the joke.",
+    "translation": "Todos se rieron del chiste."
+  },
+  {
+    "base": "launch",
+    "s_form": "launches",
+    "past": "launched (t)",
+    "past_participle": "launched (t)",
+    "ing": "launching",
+    "meaning": "lanzar",
+    "example": "NASA launched a new satellite.",
+    "translation": "La NASA lanzó un nuevo satélite."
+  },
+  {
+    "base": "lead",
+    "s_form": "leads",
+    "past": "led (d)",
+    "past_participle": "led (d)",
+    "ing": "leading",
+    "meaning": "liderar",
+    "example": "She led the team to victory.",
+    "translation": "Ella lideró al equipo a la victoria."
+  },
+  {
+    "base": "learn",
+    "s_form": "learns",
+    "past": "learned (d)",
+    "past_participle": "learned (d)",
+    "ing": "learning",
+    "meaning": "aprender",
+    "example": "Students learned new vocabulary.",
+    "translation": "Los estudiantes aprendieron nuevo vocabulario."
+  },
+  {
+    "base": "leave",
+    "s_form": "leaves",
+    "past": "left (t)",
+    "past_participle": "left (t)",
+    "ing": "leaving",
+    "meaning": "salir",
+    "example": "He left the office early.",
+    "translation": "Él salió de la oficina temprano."
+  },
+  {
+    "base": "lend",
+    "s_form": "lends",
+    "past": "lent (t)",
+    "past_participle": "lent (t)",
+    "ing": "lending",
+    "meaning": "prestar",
+    "example": "I lent my book to a friend.",
+    "translation": "Presté mi libro a un amigo."
+  },
+  {
+    "base": "lift",
+    "s_form": "lifts",
+    "past": "lifted (ed)",
+    "past_participle": "lifted (ed)",
+    "ing": "lifting",
+    "meaning": "levantar",
+    "example": "She lifted the heavy box.",
+    "translation": "Ella levantó la caja pesada."
+  },
+  {
+    "base": "light",
+    "s_form": "lights",
+    "past": "lit (t)",
+    "past_participle": "lit (t)",
+    "ing": "lighting",
+    "meaning": "encender",
+    "example": "He lit the candles carefully.",
+    "translation": "Él encendió las velas cuidadosamente."
+  },
+  {
+    "base": "like",
+    "s_form": "likes",
+    "past": "liked (t)",
+    "past_participle": "liked (t)",
+    "ing": "liking",
+    "meaning": "gustar",
+    "example": "I liked the movie a lot.",
+    "translation": "Me gustó mucho la película."
+  },
+  {
+    "base": "limit",
+    "s_form": "limits",
+    "past": "limited (ed)",
+    "past_participle": "limited (ed)",
+    "ing": "limiting",
+    "meaning": "limitar",
+    "example": "The law limited pollution levels.",
+    "translation": "La ley limitó los niveles de contaminación."
+  },
+  {
+    "base": "link",
+    "s_form": "links",
+    "past": "linked (t)",
+    "past_participle": "linked (t)",
+    "ing": "linking",
+    "meaning": "enlazar",
+    "example": "The article linked to a study.",
+    "translation": "El artículo enlazó a un estudio."
+  },
+  {
+    "base": "list",
+    "s_form": "lists",
+    "past": "listed (ed)",
+    "past_participle": "listed (ed)",
+    "ing": "listing",
+    "meaning": "listar",
+    "example": "She listed her skills clearly.",
+    "translation": "Ella listó sus habilidades claramente."
+  },
+  {
+    "base": "listen",
+    "s_form": "listens",
+    "past": "listened (d)",
+    "past_participle": "listened (d)",
+    "ing": "listening",
+    "meaning": "escuchar",
+    "example": "We listened to the podcast.",
+    "translation": "Escuchamos el podcast."
+  },
+  {
+    "base": "live",
+    "s_form": "lives",
+    "past": "lived (d)",
+    "past_participle": "lived (d)",
+    "ing": "living",
+    "meaning": "vivir",
+    "example": "They lived in Paris for years.",
+    "translation": "Ellos vivieron en París por años."
+  },
+  {
+    "base": "locate",
+    "s_form": "locates",
+    "past": "located (ed)",
+    "past_participle": "located (ed)",
+    "ing": "locating",
+    "meaning": "localizar",
+    "example": "GPS located the nearest gas station.",
+    "translation": "El GPS localizó la gasolinera más cercana."
+  },
+  {
+    "base": "look",
+    "s_form": "looks",
+    "past": "looked (t)",
+    "past_participle": "looked (t)",
+    "ing": "looking",
+    "meaning": "mirar",
+    "example": "She looked at the beautiful sunset.",
+    "translation": "Ella miró el hermoso atardecer."
+  },
+  {
+    "base": "lose",
+    "s_form": "loses",
+    "past": "lost (t)",
+    "past_participle": "lost (t)",
+    "ing": "losing",
+    "meaning": "perder",
+    "example": "I lost my keys yesterday.",
+    "translation": "Perdí mis llaves ayer."
+  },
+  {
+    "base": "love",
+    "s_form": "loves",
+    "past": "loved (d)",
+    "past_participle": "loved (d)",
+    "ing": "loving",
+    "meaning": "amar",
+    "example": "They loved the concert deeply.",
+    "translation": "Ellos amaron el concierto profundamente."
+  },
+  {
+    "base": "maintain",
+    "s_form": "maintains",
+    "past": "maintained (d)",
+    "past_participle": "maintained (d)",
+    "ing": "maintaining",
+    "meaning": "mantener",
+    "example": "He maintained his car regularly.",
+    "translation": "Él mantuvo su auto regularmente."
+  },
+  {
+    "base": "manage",
+    "s_form": "manages",
+    "past": "managed (d)",
+    "past_participle": "managed (d)",
+    "ing": "managing",
+    "meaning": "gestionar",
+    "example": "She managed the project successfully.",
+    "translation": "Ella gestionó el proyecto exitosamente."
+  },
+  {
+    "base": "manufacture",
+    "s_form": "manufactures",
+    "past": "manufactured (d)",
+    "past_participle": "manufactured (d)",
+    "ing": "manufacturing",
+    "meaning": "fabricar",
+    "example": "The factory manufactured cars.",
+    "translation": "La fábrica fabricó autos."
+  },
+  {
+    "base": "mark",
+    "s_form": "marks",
+    "past": "marked (t)",
+    "past_participle": "marked (t)",
+    "ing": "marking",
+    "meaning": "marcar",
+    "example": "Teachers marked the exams.",
+    "translation": "Los maestros marcaron los exámenes."
+  },
+  {
+    "base": "market",
+    "s_form": "markets",
+    "past": "marketed (ed)",
+    "past_participle": "marketed (ed)",
+    "ing": "marketing",
+    "meaning": "comercializar",
+    "example": "Companies marketed the new product.",
+    "translation": "Las empresas comercializaron el nuevo producto."
+  },
+  {
+    "base": "marry",
+    "s_form": "marries",
+    "past": "married (d)",
+    "past_participle": "married (d)",
+    "ing": "marrying",
+    "meaning": "casarse",
+    "example": "They married last summer.",
+    "translation": "Ellos se casaron el verano pasado."
+  },
+  {
+    "base": "match",
+    "s_form": "matches",
+    "past": "matched (t)",
+    "past_participle": "matched (t)",
+    "ing": "matching",
+    "meaning": "coincidir",
+    "example": "The colors matched perfectly.",
+    "translation": "Los colores coincidieron perfectamente."
+  },
+  {
+    "base": "matter",
+    "s_form": "matters",
+    "past": "mattered (d)",
+    "past_participle": "mattered (d)",
+    "ing": "mattering",
+    "meaning": "importar",
+    "example": "Your opinion mattered to me.",
+    "translation": "Tu opinión me importó."
+  },
+  {
+    "base": "mean",
+    "s_form": "means",
+    "past": "meant (t)",
+    "past_participle": "meant (t)",
+    "ing": "meaning",
+    "meaning": "significar",
+    "example": "What meant that symbol?",
+    "translation": "¿Qué significó ese símbolo?"
+  },
+  {
+    "base": "measure",
+    "s_form": "measures",
+    "past": "measured (d)",
+    "past_participle": "measured (d)",
+    "ing": "measuring",
+    "meaning": "medir",
+    "example": "Scientists measured the temperature.",
+    "translation": "Los científicos midieron la temperatura."
+  },
+  {
+    "base": "mention",
+    "s_form": "mentions",
+    "past": "mentioned (d)",
+    "past_participle": "mentioned (d)",
+    "ing": "mentioning",
+    "meaning": "mencionar",
+    "example": "He mentioned your name earlier.",
+    "translation": "Él mencionó tu nombre antes."
+  },
+  {
+    "base": "mind",
+    "s_form": "minds",
+    "past": "minded (ed)",
+    "past_participle": "minded (ed)",
+    "ing": "minding",
+    "meaning": "importar",
+    "example": "She minded her own business.",
+    "translation": "A ella le importaron sus propios asuntos."
+  },
+  {
+    "base": "miss",
+    "s_form": "misses",
+    "past": "missed (t)",
+    "past_participle": "missed (t)",
+    "ing": "missing",
+    "meaning": "extrañar",
+    "example": "I missed my family a lot.",
+    "translation": "Extrañé mucho a mi familia."
+  },
+  {
+    "base": "mix",
+    "s_form": "mixes",
+    "past": "mixed (t)",
+    "past_participle": "mixed (t)",
+    "ing": "mixing",
+    "meaning": "mezclar",
+    "example": "She mixed the ingredients well.",
+    "translation": "Ella mezcló los ingredientes bien."
+  },
+  {
+    "base": "motivate",
+    "s_form": "motivates",
+    "past": "motivated (ed)",
+    "past_participle": "motivated (ed)",
+    "ing": "motivating",
+    "meaning": "motivar",
+    "example": "The coach motivated the team.",
+    "translation": "El entrenador motivó al equipo."
+  },
+  {
+    "base": "move",
+    "s_form": "moves",
+    "past": "moved (d)",
+    "past_participle": "moved (d)",
+    "ing": "moving",
+    "meaning": "mover",
+    "example": "They moved to a new city.",
+    "translation": "Ellos se mudaron a una nueva ciudad."
+  },
+  {
+    "base": "name",
+    "s_form": "names",
+    "past": "named (d)",
+    "past_participle": "named (d)",
+    "ing": "naming",
+    "meaning": "nombrar",
+    "example": "They named their baby Emma.",
+    "translation": "Ellos nombraron a su bebé Emma."
+  },
+  {
+    "base": "need",
+    "s_form": "needs",
+    "past": "needed (ed)",
+    "past_participle": "needed (ed)",
+    "ing": "needing",
+    "meaning": "necesitar",
+    "example": "I needed help with homework.",
+    "translation": "Necesité ayuda con la tarea."
+  },
+  {
+    "base": "negotiate",
+    "s_form": "negotiates",
+    "past": "negotiated (ed)",
+    "past_participle": "negotiated (ed)",
+    "ing": "negotiating",
+    "meaning": "negociar",
+    "example": "They negotiated a fair deal.",
+    "translation": "Ellos negociaron un trato justo."
+  },
+  {
+    "base": "note",
+    "s_form": "notes",
+    "past": "noted (ed)",
+    "past_participle": "noted (ed)",
+    "ing": "noting",
+    "meaning": "notar",
+    "example": "She noted the important points.",
+    "translation": "Ella notó los puntos importantes."
+  },
+  {
+    "base": "notice",
+    "s_form": "notices",
+    "past": "noticed (t)",
+    "past_participle": "noticed (t)",
+    "ing": "noticing",
+    "meaning": "notar",
+    "example": "I noticed a strange sound.",
+    "translation": "Noté un sonido extraño."
+  },
+  {
+    "base": "observe",
+    "s_form": "observes",
+    "past": "observed (d)",
+    "past_participle": "observed (d)",
+    "ing": "observing",
+    "meaning": "observar",
+    "example": "Scientists observed the stars.",
+    "translation": "Los científicos observaron las estrellas."
+  },
+  {
+    "base": "obtain",
+    "s_form": "obtains",
+    "past": "obtained (d)",
+    "past_participle": "obtained (d)",
+    "ing": "obtaining",
+    "meaning": "obtener",
+    "example": "She obtained a visa for travel.",
+    "translation": "Ella obtuvo una visa para viajar."
+  },
+  {
+    "base": "occur",
+    "s_form": "occurs",
+    "past": "occurred (d)",
+    "past_participle": "occurred (d)",
+    "ing": "occurring",
+    "meaning": "ocurrir",
+    "example": "The event occurred last night.",
+    "translation": "El evento ocurrió anoche."
+  },
+  {
+    "base": "offer",
+    "s_form": "offers",
+    "past": "offered (d)",
+    "past_participle": "offered (d)",
+    "ing": "offering",
+    "meaning": "ofrecer",
+    "example": "The company offered a discount.",
+    "translation": "La empresa ofreció un descuento."
+  },
+  {
+    "base": "open",
+    "s_form": "opens",
+    "past": "opened (d)",
+    "past_participle": "opened (d)",
+    "ing": "opening",
+    "meaning": "abrir",
+    "example": "She opened the window.",
+    "translation": "Ella abrió la ventana."
+  },
+  {
+    "base": "operate",
+    "s_form": "operates",
+    "past": "operated (ed)",
+    "past_participle": "operated (ed)",
+    "ing": "operating",
+    "meaning": "operar",
+    "example": "Doctors operated on the patient.",
+    "translation": "Los médicos operaron al paciente."
+  },
+  {
+    "base": "order",
+    "s_form": "orders",
+    "past": "ordered (d)",
+    "past_participle": "ordered (d)",
+    "ing": "ordering",
+    "meaning": "ordenar",
+    "example": "We ordered pizza for dinner.",
+    "translation": "Ordenamos pizza para la cena."
+  },
+  {
+    "base": "organize",
+    "s_form": "organizes",
+    "past": "organized (d)",
+    "past_participle": "organized (d)",
+    "ing": "organizing",
+    "meaning": "organizar",
+    "example": "She organized the files neatly.",
+    "translation": "Ella organizó los archivos ordenadamente."
+  },
+  {
+    "base": "overcome",
+    "s_form": "overcomes",
+    "past": "overcame (t)",
+    "past_participle": "overcome (t)",
+    "ing": "overcoming",
+    "meaning": "superar",
+    "example": "He overcame many obstacles.",
+    "translation": "Él superó muchos obstáculos."
+  },
+  {
+    "base": "owe",
+    "s_form": "owes",
+    "past": "owed (d)",
+    "past_participle": "owed (d)",
+    "ing": "owing",
+    "meaning": "deber",
+    "example": "I owed him some money.",
+    "translation": "Le debía algo de dinero."
+  },
+  {
+    "base": "own",
+    "s_form": "owns",
+    "past": "owned (d)",
+    "past_participle": "owned (d)",
+    "ing": "owning",
+    "meaning": "poseer",
+    "example": "They owned a small business.",
+    "translation": "Ellos poseían un pequeño negocio."
+  },
+  {
+    "base": "participate",
+    "s_form": "participates",
+    "past": "participated (ed)",
+    "past_participle": "participated (ed)",
+    "ing": "participating",
+    "meaning": "participar",
+    "example": "Students participated actively.",
+    "translation": "Los estudiantes participaron activamente."
+  },
+  {
+    "base": "pass",
+    "s_form": "passes",
+    "past": "passed (t)",
+    "past_participle": "passed (t)",
+    "ing": "passing",
+    "meaning": "pasar",
+    "example": "Time passed quickly.",
+    "translation": "El tiempo pasó rápido."
+  },
+  {
+    "base": "pay",
+    "s_form": "pays",
+    "past": "paid (d)",
+    "past_participle": "paid (d)",
+    "ing": "paying",
+    "meaning": "pagar",
+    "example": "I paid the bill yesterday.",
+    "translation": "Pagué la cuenta ayer."
+  },
+  {
+    "base": "perform",
+    "s_form": "performs",
+    "past": "performed (d)",
+    "past_participle": "performed (d)",
+    "ing": "performing",
+    "meaning": "realizar",
+    "example": "The band performed well.",
+    "translation": "La banda realizó un buen concierto."
+  },
+  {
+    "base": "permit",
+    "s_form": "permits",
+    "past": "permitted (ed)",
+    "past_participle": "permitted (ed)",
+    "ing": "permitting",
+    "meaning": "permitir",
+    "example": "The law permitted it.",
+    "translation": "La ley lo permitió."
+  },
+  {
+    "base": "persuade",
+    "s_form": "persuades",
+    "past": "persuaded (ed)",
+    "past_participle": "persuaded (ed)",
+    "ing": "persuading",
+    "meaning": "persuadir",
+    "example": "She persuaded him to stay.",
+    "translation": "Ella lo persuadió de quedarse."
+  },
+  {
+    "base": "plan",
+    "s_form": "plans",
+    "past": "planned (d)",
+    "past_participle": "planned (d)",
+    "ing": "planning",
+    "meaning": "planear",
+    "example": "We planned the trip carefully.",
+    "translation": "Planeamos el viaje cuidadosamente."
+  },
+  {
+    "base": "play",
+    "s_form": "plays",
+    "past": "played (d)",
+    "past_participle": "played (d)",
+    "ing": "playing",
+    "meaning": "jugar",
+    "example": "Children played in the park.",
+    "translation": "Los niños jugaron en el parque."
+  },
+  {
+    "base": "point",
+    "s_form": "points",
+    "past": "pointed (ed)",
+    "past_participle": "pointed (ed)",
+    "ing": "pointing",
+    "meaning": "señalar",
+    "example": "He pointed to the map.",
+    "translation": "Él señaló el mapa."
+  },
+  {
+    "base": "possess",
+    "s_form": "possesses",
+    "past": "possessed (t)",
+    "past_participle": "possessed (t)",
+    "ing": "possessing",
+    "meaning": "poseer",
+    "example": "She possessed great talent.",
+    "translation": "Ella poseía gran talento."
+  },
+  {
+    "base": "predict",
+    "s_form": "predicts",
+    "past": "predicted (ed)",
+    "past_participle": "predicted (ed)",
+    "ing": "predicting",
+    "meaning": "predecir",
+    "example": "Experts predicted the outcome.",
+    "translation": "Los expertos predijeron el resultado."
+  },
+  {
+    "base": "prefer",
+    "s_form": "prefers",
+    "past": "preferred (d)",
+    "past_participle": "preferred (d)",
+    "ing": "preferring",
+    "meaning": "preferir",
+    "example": "I preferred the blue one.",
+    "translation": "Preferí el azul."
+  },
+  {
+    "base": "prepare",
+    "s_form": "prepares",
+    "past": "prepared (d)",
+    "past_participle": "prepared (d)",
+    "ing": "preparing",
+    "meaning": "preparar",
+    "example": "She prepared a delicious meal.",
+    "translation": "Ella preparó una comida deliciosa."
+  },
+  {
+    "base": "present",
+    "s_form": "presents",
+    "past": "presented (ed)",
+    "past_participle": "presented (ed)",
+    "ing": "presenting",
+    "meaning": "presentar",
+    "example": "He presented his research.",
+    "translation": "Él presentó su investigación."
+  },
+  {
+    "base": "preserve",
+    "s_form": "preserves",
+    "past": "preserved (d)",
+    "past_participle": "preserved (d)",
+    "ing": "preserving",
+    "meaning": "preservar",
+    "example": "They preserved the ancient ruins.",
+    "translation": "Ellos preservaron las ruinas antiguas."
+  },
+  {
+    "base": "press",
+    "s_form": "presses",
+    "past": "pressed (t)",
+    "past_participle": "pressed (t)",
+    "ing": "pressing",
+    "meaning": "presionar",
+    "example": "She pressed the button.",
+    "translation": "Ella presionó el botón."
+  },
+  {
+    "base": "pretend",
+    "s_form": "pretends",
+    "past": "pretended (ed)",
+    "past_participle": "pretended (ed)",
+    "ing": "pretending",
+    "meaning": "fingir",
+    "example": "He pretended to be asleep.",
+    "translation": "Él fingió estar dormido."
+  },
+  {
+    "base": "prevent",
+    "s_form": "prevents",
+    "past": "prevented (ed)",
+    "past_participle": "prevented (ed)",
+    "ing": "preventing",
+    "meaning": "prevenir",
+    "example": "Vaccines prevent diseases.",
+    "translation": "Las vacunas previenen enfermedades."
+  },
+  {
+    "base": "print",
+    "s_form": "prints",
+    "past": "printed (ed)",
+    "past_participle": "printed (ed)",
+    "ing": "printing",
+    "meaning": "imprimir",
+    "example": "I printed the document.",
+    "translation": "Imprimí el documento."
+  },
+  {
+    "base": "proceed",
+    "s_form": "proceeds",
+    "past": "proceeded (ed)",
+    "past_participle": "proceeded (ed)",
+    "ing": "proceeding",
+    "meaning": "proceder",
+    "example": "They proceeded with caution.",
+    "translation": "Ellos procedieron con cautela."
+  },
+  {
+    "base": "process",
+    "s_form": "processes",
+    "past": "processed (t)",
+    "past_participle": "processed (t)",
+    "ing": "processing",
+    "meaning": "procesar",
+    "example": "Computers process data quickly.",
+    "translation": "Las computadoras procesan datos rápidamente."
+  },
+  {
+    "base": "produce",
+    "s_form": "produces",
+    "past": "produced (t)",
+    "past_participle": "produced (t)",
+    "ing": "producing",
+    "meaning": "producir",
+    "example": "The factory produced cars.",
+    "translation": "La fábrica produjo autos."
+  },
+  {
+    "base": "promise",
+    "s_form": "promises",
+    "past": "promised (t)",
+    "past_participle": "promised (t)",
+    "ing": "promising",
+    "meaning": "prometer",
+    "example": "She promised to return.",
+    "translation": "Ella prometió regresar."
+  },
+  {
+    "base": "promote",
+    "s_form": "promotes",
+    "past": "promoted (ed)",
+    "past_participle": "promoted (ed)",
+    "ing": "promoting",
+    "meaning": "promover",
+    "example": "The company promoted her.",
+    "translation": "La empresa la promovió."
+  },
+  {
+    "base": "protect",
+    "s_form": "protects",
+    "past": "protected (ed)",
+    "past_participle": "protected (ed)",
+    "ing": "protecting",
+    "meaning": "proteger",
+    "example": "Laws protect citizens.",
+    "translation": "Las leyes protegen a los ciudadanos."
+  },
+  {
+    "base": "prove",
+    "s_form": "proves",
+    "past": "proved (d)",
+    "past_participle": "proven (n)",
+    "ing": "proving",
+    "meaning": "probar",
+    "example": "He proved his theory.",
+    "translation": "Él probó su teoría."
+  },
+  {
+    "base": "provide",
+    "s_form": "provides",
+    "past": "provided (ed)",
+    "past_participle": "provided (ed)",
+    "ing": "providing",
+    "meaning": "proporcionar",
+    "example": "The school provided books.",
+    "translation": "La escuela proporcionó libros."
+  },
+  {
+    "base": "publish",
+    "s_form": "publishes",
+    "past": "published (t)",
+    "past_participle": "published (t)",
+    "ing": "publishing",
+    "meaning": "publicar",
+    "example": "She published a new article.",
+    "translation": "Ella publicó un artículo nuevo."
+  },
+  {
+    "base": "pull",
+    "s_form": "pulls",
+    "past": "pulled (d)",
+    "past_participle": "pulled (d)",
+    "ing": "pulling",
+    "meaning": "tirar",
+    "example": "He pulled the rope hard.",
+    "translation": "Él tiró la cuerda fuerte."
+  },
+  {
+    "base": "purchase",
+    "s_form": "purchases",
+    "past": "purchased (t)",
+    "past_participle": "purchased (t)",
+    "ing": "purchasing",
+    "meaning": "comprar",
+    "example": "We purchased a new car.",
+    "translation": "Compramos un auto nuevo."
+  },
+  {
+    "base": "pursue",
+    "s_form": "pursues",
+    "past": "pursued (d)",
+    "past_participle": "pursued (d)",
+    "ing": "pursuing",
+    "meaning": "perseguir",
+    "example": "She pursued her dreams.",
+    "translation": "Ella persiguió sus sueños."
+  },
+  {
+    "base": "push",
+    "s_form": "pushes",
+    "past": "pushed (t)",
+    "past_participle": "pushed (t)",
+    "ing": "pushing",
+    "meaning": "empujar",
+    "example": "They pushed the door open.",
+    "translation": "Ellos empujaron la puerta para abrirla."
+  },
+  {
+    "base": "put",
+    "s_form": "puts",
+    "past": "put (t)",
+    "past_participle": "put (t)",
+    "ing": "putting",
+    "meaning": "poner",
+    "example": "She put the keys on the table.",
+    "translation": "Ella puso las llaves en la mesa."
+  },
+  {
+    "base": "qualify",
+    "s_form": "qualifies",
+    "past": "qualified (d)",
+    "past_participle": "qualified (d)",
+    "ing": "qualifying",
+    "meaning": "calificar",
+    "example": "He qualified for the finals.",
+    "translation": "Él calificó para la final."
+  },
+  {
+    "base": "question",
+    "s_form": "questions",
+    "past": "questioned (d)",
+    "past_participle": "questioned (d)",
+    "ing": "questioning",
+    "meaning": "preguntar",
+    "example": "The police questioned the witness.",
+    "translation": "La policía preguntó al testigo."
+  },
+  {
+    "base": "quit",
+    "s_form": "quits",
+    "past": "quit (t)",
+    "past_participle": "quit (t)",
+    "ing": "quitting",
+    "meaning": "dejar",
+    "example": "She quit her job yesterday.",
+    "translation": "Ella dejó su trabajo ayer."
+  },
+  {
+    "base": "raise",
+    "s_form": "raises",
+    "past": "raised (d)",
+    "past_participle": "raised (d)",
+    "ing": "raising",
+    "meaning": "levantar",
+    "example": "They raised their hands.",
+    "translation": "Ellos levantaron sus manos."
+  },
+  {
+    "base": "reach",
+    "s_form": "reaches",
+    "past": "reached (t)",
+    "past_participle": "reached (t)",
+    "ing": "reaching",
+    "meaning": "alcanzar",
+    "example": "She reached the top.",
+    "translation": "Ella alcanzó la cima."
+  },
+  {
+    "base": "react",
+    "s_form": "reacts",
+    "past": "reacted (ed)",
+    "past_participle": "reacted (ed)",
+    "ing": "reacting",
+    "meaning": "reaccionar",
+    "example": "He reacted quickly.",
+    "translation": "Él reaccionó rápidamente."
+  },
+  {
+    "base": "read",
+    "s_form": "reads",
+    "past": "read (d)",
+    "past_participle": "read (d)",
+    "ing": "reading",
+    "meaning": "leer",
+    "example": "I read a book last night.",
+    "translation": "Leí un libro anoche."
+  },
+  {
+    "base": "realize",
+    "s_form": "realizes",
+    "past": "realized (d)",
+    "past_participle": "realized (d)",
+    "ing": "realizing",
+    "meaning": "darse cuenta",
+    "example": "She realized her mistake.",
+    "translation": "Ella se dio cuenta de su error."
+  },
+  {
+    "base": "receive",
+    "s_form": "receives",
+    "past": "received (d)",
+    "past_participle": "received (d)",
+    "ing": "receiving",
+    "meaning": "recibir",
+    "example": "I received a gift.",
+    "translation": "Recibí un regalo."
+  },
+  {
+    "base": "recognize",
+    "s_form": "recognizes",
+    "past": "recognized (d)",
+    "past_participle": "recognized (d)",
+    "ing": "recognizing",
+    "meaning": "reconocer",
+    "example": "He recognized her immediately.",
+    "translation": "Él la reconoció inmediatamente."
+  },
+  {
+    "base": "recommend",
+    "s_form": "recommends",
+    "past": "recommended (ed)",
+    "past_participle": "recommended (ed)",
+    "ing": "recommending",
+    "meaning": "recomendar",
+    "example": "She recommended a good restaurant.",
+    "translation": "Ella recomendó un buen restaurante."
+  },
+  {
+    "base": "reduce",
+    "s_form": "reduces",
+    "past": "reduced (t)",
+    "past_participle": "reduced (t)",
+    "ing": "reducing",
+    "meaning": "reducir",
+    "example": "We reduced our expenses.",
+    "translation": "Redujimos nuestros gastos."
+  },
+  {
+    "base": "refer",
+    "s_form": "refers",
+    "past": "referred (d)",
+    "past_participle": "referred (d)",
+    "ing": "referring",
+    "meaning": "referir",
+    "example": "He referred to the manual.",
+    "translation": "Él se refirió al manual."
+  },
+  {
+    "base": "reflect",
+    "s_form": "reflects",
+    "past": "reflected (ed)",
+    "past_participle": "reflected (ed)",
+    "ing": "reflecting",
+    "meaning": "reflejar",
+    "example": "The water reflected the sky.",
+    "translation": "El agua reflejó el cielo."
+  },
+  {
+    "base": "refuse",
+    "s_form": "refuses",
+    "past": "refused (d)",
+    "past_participle": "refused (d)",
+    "ing": "refusing",
+    "meaning": "negarse",
+    "example": "She refused to answer.",
+    "translation": "Ella se negó a responder."
+  },
+  {
+    "base": "regard",
+    "s_form": "regards",
+    "past": "regarded (ed)",
+    "past_participle": "regarded (ed)",
+    "ing": "regarding",
+    "meaning": "considerar",
+    "example": "He regarded her as a friend.",
+    "translation": "Él la consideró una amiga."
+  },
+  {
+    "base": "regret",
+    "s_form": "regrets",
+    "past": "regretted (ed)",
+    "past_participle": "regretted (ed)",
+    "ing": "regretting",
+    "meaning": "lamentar",
+    "example": "I regretted my decision.",
+    "translation": "Lamenté mi decisión."
+  },
+  {
+    "base": "relate",
+    "s_form": "relates",
+    "past": "related (ed)",
+    "past_participle": "related (ed)",
+    "ing": "relating",
+    "meaning": "relacionar",
+    "example": "The story related to real events.",
+    "translation": "La historia se relacionó con eventos reales."
+  },
+  {
+    "base": "relax",
+    "s_form": "relaxes",
+    "past": "relaxed (t)",
+    "past_participle": "relaxed (t)",
+    "ing": "relaxing",
+    "meaning": "relajar",
+    "example": "She relaxed on the beach.",
+    "translation": "Ella se relajó en la playa."
+  },
+  {
+    "base": "release",
+    "s_form": "releases",
+    "past": "released (t)",
+    "past_participle": "released (t)",
+    "ing": "releasing",
+    "meaning": "liberar",
+    "example": "They released the prisoner.",
+    "translation": "Liberaron al prisionero."
+  },
+  {
+    "base": "rely",
+    "s_form": "relies",
+    "past": "relied (d)",
+    "past_participle": "relied (d)",
+    "ing": "relying",
+    "meaning": "confiar",
+    "example": "I relied on his advice.",
+    "translation": "Confié en su consejo."
+  },
+  {
+    "base": "remain",
+    "s_form": "remains",
+    "past": "remained (d)",
+    "past_participle": "remained (d)",
+    "ing": "remaining",
+    "meaning": "permanecer",
+    "example": "She remained silent.",
+    "translation": "Ella permaneció en silencio."
+  },
+  {
+    "base": "remember",
+    "s_form": "remembers",
+    "past": "remembered (d)",
+    "past_participle": "remembered (d)",
+    "ing": "remembering",
+    "meaning": "recordar",
+    "example": "I remembered her name.",
+    "translation": "Recordé su nombre."
+  },
+  {
+    "base": "remind",
+    "s_form": "reminds",
+    "past": "reminded (ed)",
+    "past_participle": "reminded (ed)",
+    "ing": "reminding",
+    "meaning": "recordar",
+    "example": "She reminded me of the meeting.",
+    "translation": "Ella me recordó la reunión."
+  },
+  {
+    "base": "remove",
+    "s_form": "removes",
+    "past": "removed (d)",
+    "past_participle": "removed (d)",
+    "ing": "removing",
+    "meaning": "remover",
+    "example": "He removed the stain.",
+    "translation": "Él removió la mancha."
+  },
+  {
+    "base": "rent",
+    "s_form": "rents",
+    "past": "rented (ed)",
+    "past_participle": "rented (ed)",
+    "ing": "renting",
+    "meaning": "rentar",
+    "example": "They rented an apartment.",
+    "translation": "Rentaron un apartamento."
+  },
+  {
+    "base": "repair",
+    "s_form": "repairs",
+    "past": "repaired (d)",
+    "past_participle": "repaired (d)",
+    "ing": "repairing",
+    "meaning": "reparar",
+    "example": "He repaired the car.",
+    "translation": "Él reparó el auto."
+  },
+  {
+    "base": "repeat",
+    "s_form": "repeats",
+    "past": "repeated (ed)",
+    "past_participle": "repeated (ed)",
+    "ing": "repeating",
+    "meaning": "repetir",
+    "example": "She repeated the question.",
+    "translation": "Ella repitió la pregunta."
+  },
+  {
+    "base": "replace",
+    "s_form": "replaces",
+    "past": "replaced (t)",
+    "past_participle": "replaced (t)",
+    "ing": "replacing",
+    "meaning": "reemplazar",
+    "example": "They replaced the old equipment.",
+    "translation": "Reemplazaron el equipo viejo."
+  },
+  {
+    "base": "reply",
+    "s_form": "replies",
+    "past": "replied (d)",
+    "past_participle": "replied (d)",
+    "ing": "replying",
+    "meaning": "responder",
+    "example": "He replied to the email.",
+    "translation": "Él respondió al correo."
+  },
+  {
+    "base": "report",
+    "s_form": "reports",
+    "past": "reported (ed)",
+    "past_participle": "reported (ed)",
+    "ing": "reporting",
+    "meaning": "reportar",
+    "example": "She reported the incident.",
+    "translation": "Ella reportó el incidente."
+  },
+  {
+    "base": "represent",
+    "s_form": "represents",
+    "past": "represented (ed)",
+    "past_participle": "represented (ed)",
+    "ing": "representing",
+    "meaning": "representar",
+    "example": "He represented the company.",
+    "translation": "Él representó a la empresa."
+  },
+  {
+    "base": "require",
+    "s_form": "requires",
+    "past": "required (d)",
+    "past_participle": "required (d)",
+    "ing": "requiring",
+    "meaning": "requerir",
+    "example": "The job required experience.",
+    "translation": "El trabajo requirió experiencia."
+  },
+  {
+    "base": "research",
+    "s_form": "researches",
+    "past": "researched (t)",
+    "past_participle": "researched (t)",
+    "ing": "researching",
+    "meaning": "investigar",
+    "example": "Scientists researched the topic.",
+    "translation": "Los científicos investigaron el tema."
+  },
+  {
+    "base": "resolve",
+    "s_form": "resolves",
+    "past": "resolved (d)",
+    "past_participle": "resolved (d)",
+    "ing": "resolving",
+    "meaning": "resolver",
+    "example": "They resolved the conflict.",
+    "translation": "Ellos resolvieron el conflicto."
+  },
+  {
+    "base": "respond",
+    "s_form": "responds",
+    "past": "responded (ed)",
+    "past_participle": "responded (ed)",
+    "ing": "responding",
+    "meaning": "responder",
+    "example": "She responded quickly.",
+    "translation": "Ella respondió rápidamente."
+  },
+  {
+    "base": "rest",
+    "s_form": "rests",
+    "past": "rested (ed)",
+    "past_participle": "rested (ed)",
+    "ing": "resting",
+    "meaning": "descansar",
+    "example": "He rested after work.",
+    "translation": "Él descansó después del trabajo."
+  },
+  {
+    "base": "result",
+    "s_form": "results",
+    "past": "resulted (ed)",
+    "past_participle": "resulted (ed)",
+    "ing": "resulting",
+    "meaning": "resultar",
+    "example": "The experiment resulted in success.",
+    "translation": "El experimento resultó en éxito."
+  },
+  {
+    "base": "return",
+    "s_form": "returns",
+    "past": "returned (d)",
+    "past_participle": "returned (d)",
+    "ing": "returning",
+    "meaning": "regresar",
+    "example": "She returned home early.",
+    "translation": "Ella regresó a casa temprano."
+  },
+  {
+    "base": "reveal",
+    "s_form": "reveals",
+    "past": "revealed (d)",
+    "past_participle": "revealed (d)",
+    "ing": "revealing",
+    "meaning": "revelar",
+    "example": "He revealed the secret.",
+    "translation": "Él reveló el secreto."
+  },
+  {
+    "base": "review",
+    "s_form": "reviews",
+    "past": "reviewed (d)",
+    "past_participle": "reviewed (d)",
+    "ing": "reviewing",
+    "meaning": "revisar",
+    "example": "She reviewed the document.",
+    "translation": "Ella revisó el documento."
+  },
+  {
+    "base": "reward",
+    "s_form": "rewards",
+    "past": "rewarded (ed)",
+    "past_participle": "rewarded (ed)",
+    "ing": "rewarding",
+    "meaning": "premiar",
+    "example": "The company rewarded employees.",
+    "translation": "La empresa premió a los empleados."
+  },
+  {
+    "base": "risk",
+    "s_form": "risks",
+    "past": "risked (t)",
+    "past_participle": "risked (t)",
+    "ing": "risking",
+    "meaning": "arriesgar",
+    "example": "He risked his life.",
+    "translation": "Él arriesgó su vida."
+  },
+  {
+    "base": "rule",
+    "s_form": "rules",
+    "past": "ruled (d)",
+    "past_participle": "ruled (d)",
+    "ing": "ruling",
+    "meaning": "gobernar",
+    "example": "The king ruled for decades.",
+    "translation": "El rey gobernó por décadas."
+  },
+  {
+    "base": "run",
+    "s_form": "runs",
+    "past": "ran (n)",
+    "past_participle": "run (n)",
+    "ing": "running",
+    "meaning": "correr",
+    "example": "She ran a marathon.",
+    "translation": "Ella corrió un maratón."
+  },
+  {
+    "base": "save",
+    "s_form": "saves",
+    "past": "saved (d)",
+    "past_participle": "saved (d)",
+    "ing": "saving",
+    "meaning": "ahorrar",
+    "example": "He saved money for years.",
+    "translation": "Él ahorró dinero por años."
+  },
+  {
+    "base": "say",
+    "s_form": "says",
+    "past": "said (d)",
+    "past_participle": "said (d)",
+    "ing": "saying",
+    "meaning": "decir",
+    "example": "She said hello.",
+    "translation": "Ella dijo hola."
+  },
+  {
+    "base": "schedule",
+    "s_form": "schedules",
+    "past": "scheduled (d)",
+    "past_participle": "scheduled (d)",
+    "ing": "scheduling",
+    "meaning": "programar",
+    "example": "They scheduled a meeting.",
+    "translation": "Programaron una reunión."
+  },
+  {
+    "base": "search",
+    "s_form": "searches",
+    "past": "searched (t)",
+    "past_participle": "searched (t)",
+    "ing": "searching",
+    "meaning": "buscar",
+    "example": "I searched for my keys.",
+    "translation": "Busqué mis llaves."
+  },
+  {
+    "base": "secure",
+    "s_form": "secures",
+    "past": "secured (d)",
+    "past_participle": "secured (d)",
+    "ing": "securing",
+    "meaning": "asegurar",
+    "example": "He secured the building.",
+    "translation": "Él aseguró el edificio."
+  },
+  {
+    "base": "see",
+    "s_form": "sees",
+    "past": "saw (d)",
+    "past_participle": "seen (n)",
+    "ing": "seeing",
+    "meaning": "ver",
+    "example": "I saw a movie yesterday.",
+    "translation": "Vi una película ayer."
+  },
+  {
+    "base": "seek",
+    "s_form": "seeks",
+    "past": "sought (t)",
+    "past_participle": "sought (t)",
+    "ing": "seeking",
+    "meaning": "buscar",
+    "example": "They sought the truth.",
+    "translation": "Ellos buscaron la verdad."
+  },
+  {
+    "base": "seem",
+    "s_form": "seems",
+    "past": "seemed (d)",
+    "past_participle": "seemed (d)",
+    "ing": "seeming",
+    "meaning": "parecer",
+    "example": "It seemed easy.",
+    "translation": "Pareció fácil."
+  },
+  {
+    "base": "select",
+    "s_form": "selects",
+    "past": "selected (ed)",
+    "past_participle": "selected (ed)",
+    "ing": "selecting",
+    "meaning": "seleccionar",
+    "example": "She selected a dress.",
+    "translation": "Ella seleccionó un vestido."
+  },
+  {
+    "base": "sell",
+    "s_form": "sells",
+    "past": "sold (d)",
+    "past_participle": "sold (d)",
+    "ing": "selling",
+    "meaning": "vender",
+    "example": "He sold his car.",
+    "translation": "Él vendió su auto."
+  },
+  {
+    "base": "send",
+    "s_form": "sends",
+    "past": "sent (t)",
+    "past_participle": "sent (t)",
+    "ing": "sending",
+    "meaning": "enviar",
+    "example": "I sent a package.",
+    "translation": "Envié un paquete."
+  },
+  {
+    "base": "sense",
+    "s_form": "senses",
+    "past": "sensed (t)",
+    "past_participle": "sensed (t)",
+    "ing": "sensing",
+    "meaning": "sentir",
+    "example": "She sensed danger.",
+    "translation": "Ella sintió peligro."
+  },
+  {
+    "base": "separate",
+    "s_form": "separates",
+    "past": "separated (ed)",
+    "past_participle": "separated (ed)",
+    "ing": "separating",
+    "meaning": "separar",
+    "example": "They separated the groups.",
+    "translation": "Ellos separaron los grupos."
+  },
+  {
+    "base": "serve",
+    "s_form": "serves",
+    "past": "served (d)",
+    "past_participle": "served (d)",
+    "ing": "serving",
+    "meaning": "servir",
+    "example": "He served in the army.",
+    "translation": "Él sirvió en el ejército."
+  },
+  {
+    "base": "set",
+    "s_form": "sets",
+    "past": "set (t)",
+    "past_participle": "set (t)",
+    "ing": "setting",
+    "meaning": "establecer",
+    "example": "She set the table.",
+    "translation": "Ella estableció la mesa."
+  },
+  {
+    "base": "settle",
+    "s_form": "settles",
+    "past": "settled (d)",
+    "past_participle": "settled (d)",
+    "ing": "settling",
+    "meaning": "establecerse",
+    "example": "They settled in Canada.",
+    "translation": "Ellos se establecieron en Canadá."
+  },
+  {
+    "base": "shake",
+    "s_form": "shakes",
+    "past": "shook (t)",
+    "past_participle": "shaken (n)",
+    "ing": "shaking",
+    "meaning": "sacudir",
+    "example": "He shook the bottle.",
+    "translation": "Él sacudió la botella."
+  },
+  {
+    "base": "share",
+    "s_form": "shares",
+    "past": "shared (d)",
+    "past_participle": "shared (d)",
+    "ing": "sharing",
+    "meaning": "compartir",
+    "example": "She shared her ideas.",
+    "translation": "Ella compartió sus ideas."
+  },
+  {
+    "base": "shift",
+    "s_form": "shifts",
+    "past": "shifted (ed)",
+    "past_participle": "shifted (ed)",
+    "ing": "shifting",
+    "meaning": "cambiar",
+    "example": "They shifted their focus.",
+    "translation": "Ellos cambiaron su enfoque."
+  },
+  {
+    "base": "shine",
+    "s_form": "shines",
+    "past": "shone (n)",
+    "past_participle": "shone (n)",
+    "ing": "shining",
+    "meaning": "brillar",
+    "example": "The sun shone brightly.",
+    "translation": "El sol brilló intensamente."
+  },
+  {
+    "base": "shoot",
+    "s_form": "shoots",
+    "past": "shot (t)",
+    "past_participle": "shot (t)",
+    "ing": "shooting",
+    "meaning": "disparar",
+    "example": "He shot the target.",
+    "translation": "Él disparó al blanco."
+  },
+  {
+    "base": "show",
+    "s_form": "shows",
+    "past": "showed (d)",
+    "past_participle": "shown (n)",
+    "ing": "showing",
+    "meaning": "mostrar",
+    "example": "She showed her passport.",
+    "translation": "Ella mostró su pasaporte."
+  },
+  {
+    "base": "shut",
+    "s_form": "shuts",
+    "past": "shut (t)",
+    "past_participle": "shut (t)",
+    "ing": "shutting",
+    "meaning": "cerrar",
+    "example": "He shut the door.",
+    "translation": "Él cerró la puerta."
+  },
+  {
+    "base": "sign",
+    "s_form": "signs",
+    "past": "signed (d)",
+    "past_participle": "signed (d)",
+    "ing": "signing",
+    "meaning": "firmar",
+    "example": "She signed the contract.",
+    "translation": "Ella firmó el contrato."
+  },
+  {
+    "base": "sing",
+    "s_form": "sings",
+    "past": "sang (ng)",
+    "past_participle": "sung (ng)",
+    "ing": "singing",
+    "meaning": "cantar",
+    "example": "They sang a song.",
+    "translation": "Ellos cantaron una canción."
+  },
+  {
+    "base": "sit",
+    "s_form": "sits",
+    "past": "sat (t)",
+    "past_participle": "sat (t)",
+    "ing": "sitting",
+    "meaning": "sentar",
+    "example": "She sat on the chair.",
+    "translation": "Ella se sentó en la silla."
+  },
+  {
+    "base": "sleep",
+    "s_form": "sleeps",
+    "past": "slept (t)",
+    "past_participle": "slept (t)",
+    "ing": "sleeping",
+    "meaning": "dormir",
+    "example": "I slept well last night.",
+    "translation": "Dormí bien anoche."
+  },
+  {
+    "base": "slide",
+    "s_form": "slides",
+    "past": "slid (d)",
+    "past_participle": "slid (d)",
+    "ing": "sliding",
+    "meaning": "deslizar",
+    "example": "The door slid open.",
+    "translation": "La puerta se deslizó abierta."
+  },
+  {
+    "base": "solve",
+    "s_form": "solves",
+    "past": "solved (d)",
+    "past_participle": "solved (d)",
+    "ing": "solving",
+    "meaning": "resolver",
+    "example": "She solved the problem.",
+    "translation": "Ella resolvió el problema."
+  },
+  {
+    "base": "sort",
+    "s_form": "sorts",
+    "past": "sorted (ed)",
+    "past_participle": "sorted (ed)",
+    "ing": "sorting",
+    "meaning": "ordenar",
+    "example": "He sorted the documents.",
+    "translation": "Él ordenó los documentos."
+  },
+  {
+    "base": "sound",
+    "s_form": "sounds",
+    "past": "sounded (ed)",
+    "past_participle": "sounded (ed)",
+    "ing": "sounding",
+    "meaning": "sonar",
+    "example": "It sounded strange.",
+    "translation": "Sonó extraño."
+  },
+  {
+    "base": "speak",
+    "s_form": "speaks",
+    "past": "spoke (k)",
+    "past_participle": "spoken (n)",
+    "ing": "speaking",
+    "meaning": "hablar",
+    "example": "He spoke clearly.",
+    "translation": "Él habló claramente."
+  },
+  {
+    "base": "specify",
+    "s_form": "specifies",
+    "past": "specified (d)",
+    "past_participle": "specified (d)",
+    "ing": "specifying",
+    "meaning": "especificar",
+    "example": "She specified the requirements.",
+    "translation": "Ella especificó los requisitos."
+  },
+  {
+    "base": "spend",
+    "s_form": "spends",
+    "past": "spent (t)",
+    "past_participle": "spent (t)",
+    "ing": "spending",
+    "meaning": "gastar",
+    "example": "They spent a lot of money.",
+    "translation": "Ellos gastaron mucho dinero."
+  },
+  {
+    "base": "spread",
+    "s_form": "spreads",
+    "past": "spread (d)",
+    "past_participle": "spread (d)",
+    "ing": "spreading",
+    "meaning": "extender",
+    "example": "He spread the news.",
+    "translation": "Él extendió la noticia."
+  },
+  {
+    "base": "stand",
+    "s_form": "stands",
+    "past": "stood (d)",
+    "past_participle": "stood (d)",
+    "ing": "standing",
+    "meaning": "pararse",
+    "example": "She stood up.",
+    "translation": "Ella se paró."
+  },
+  {
+    "base": "start",
+    "s_form": "starts",
+    "past": "started (ed)",
+    "past_participle": "started (ed)",
+    "ing": "starting",
+    "meaning": "empezar",
+    "example": "They started the project.",
+    "translation": "Ellos empezaron el proyecto."
+  },
+  {
+    "base": "state",
+    "s_form": "states",
+    "past": "stated (ed)",
+    "past_participle": "stated (ed)",
+    "ing": "stating",
+    "meaning": "declarar",
+    "example": "He stated his opinion.",
+    "translation": "Él declaró su opinión."
+  },
+  {
+    "base": "stay",
+    "s_form": "stays",
+    "past": "stayed (d)",
+    "past_participle": "stayed (d)",
+    "ing": "staying",
+    "meaning": "quedarse",
+    "example": "She stayed at a hotel.",
+    "translation": "Ella se quedó en un hotel."
+  },
+  {
+    "base": "steal",
+    "s_form": "steals",
+    "past": "stole (l)",
+    "past_participle": "stolen (n)",
+    "ing": "stealing",
+    "meaning": "robar",
+    "example": "Someone stole my wallet.",
+    "translation": "Alguien robó mi billetera."
+  },
+  {
+    "base": "stick",
+    "s_form": "sticks",
+    "past": "stuck (t)",
+    "past_participle": "stuck (t)",
+    "ing": "sticking",
+    "meaning": "pegar",
+    "example": "He stuck the poster on the wall.",
+    "translation": "Él pegó el póster en la pared."
+  },
+  {
+    "base": "stop",
+    "s_form": "stops",
+    "past": "stopped (t)",
+    "past_participle": "stopped (t)",
+    "ing": "stopping",
+    "meaning": "parar",
+    "example": "The car stopped suddenly.",
+    "translation": "El auto paró repentinamente."
+  },
+  {
+    "base": "study",
+    "s_form": "studies",
+    "past": "studied (d)",
+    "past_participle": "studied (d)",
+    "ing": "studying",
+    "meaning": "estudiar",
+    "example": "She studied for the exam.",
+    "translation": "Ella estudió para el examen."
+  },
+  {
+    "base": "submit",
+    "s_form": "submits",
+    "past": "submitted (ed)",
+    "past_participle": "submitted (ed)",
+    "ing": "submitting",
+    "meaning": "someter",
+    "example": "He submitted the application.",
+    "translation": "Él sometió la aplicación."
+  },
+  {
+    "base": "succeed",
+    "s_form": "succeeds",
+    "past": "succeeded (ed)",
+    "past_participle": "succeeded (ed)",
+    "ing": "succeeding",
+    "meaning": "tener éxito",
+    "example": "She succeeded in her career.",
+    "translation": "Ella tuvo éxito en su carrera."
+  },
+  {
+    "base": "suffer",
+    "s_form": "suffers",
+    "past": "suffered (d)",
+    "past_participle": "suffered (d)",
+    "ing": "suffering",
+    "meaning": "sufrir",
+    "example": "He suffered from pain.",
+    "translation": "Él sufrió de dolor."
+  },
+  {
+    "base": "suggest",
+    "s_form": "suggests",
+    "past": "suggested (ed)",
+    "past_participle": "suggested (ed)",
+    "ing": "suggesting",
+    "meaning": "sugerir",
+    "example": "She suggested a solution.",
+    "translation": "Ella sugirió una solución."
+  },
+  {
+    "base": "supply",
+    "s_form": "supplies",
+    "past": "supplied (d)",
+    "past_participle": "supplied (d)",
+    "ing": "supplying",
+    "meaning": "suministrar",
+    "example": "They supplied the materials.",
+    "translation": "Ellos suministraron los materiales."
+  },
+  {
+    "base": "support",
+    "s_form": "supports",
+    "past": "supported (ed)",
+    "past_participle": "supported (ed)",
+    "ing": "supporting",
+    "meaning": "apoyar",
+    "example": "He supported the team.",
+    "translation": "Él apoyó al equipo."
+  },
+  {
+    "base": "suppose",
+    "s_form": "supposes",
+    "past": "supposed (d)",
+    "past_participle": "supposed (d)",
+    "ing": "supposing",
+    "meaning": "suponer",
+    "example": "I supposed he was right.",
+    "translation": "Supuse que él tenía razón."
+  },
+  {
+    "base": "survive",
+    "s_form": "survives",
+    "past": "survived (d)",
+    "past_participle": "survived (d)",
+    "ing": "surviving",
+    "meaning": "sobrevivir",
+    "example": "They survived the accident.",
+    "translation": "Ellos sobrevivieron el accidente."
+  },
+  {
+    "base": "switch",
+    "s_form": "switches",
+    "past": "switched (t)",
+    "past_participle": "switched (t)",
+    "ing": "switching",
+    "meaning": "cambiar",
+    "example": "She switched off the light.",
+    "translation": "Ella cambió la luz (apagó)."
+  },
+  {
+    "base": "talk",
+    "s_form": "talks",
+    "past": "talked (t)",
+    "past_participle": "talked (t)",
+    "ing": "talking",
+    "meaning": "hablar",
+    "example": "We talked for hours.",
+    "translation": "Hablamos por horas."
+  },
+  {
+    "base": "target",
+    "s_form": "targets",
+    "past": "targeted (ed)",
+    "past_participle": "targeted (ed)",
+    "ing": "targeting",
+    "meaning": "apuntar",
+    "example": "The campaign targeted young adults.",
+    "translation": "La campaña apuntó a adultos jóvenes."
+  },
+  {
+    "base": "teach",
+    "s_form": "teaches",
+    "past": "taught (t)",
+    "past_participle": "taught (t)",
+    "ing": "teaching",
+    "meaning": "enseñar",
+    "example": "She taught mathematics.",
+    "translation": "Ella enseñó matemáticas."
+  },
+  {
+    "base": "tell",
+    "s_form": "tells",
+    "past": "told (d)",
+    "past_participle": "told (d)",
+    "ing": "telling",
+    "meaning": "decir",
+    "example": "He told a story.",
+    "translation": "Él dijo una historia."
+  },
+  {
+    "base": "tend",
+    "s_form": "tends",
+    "past": "tended (ed)",
+    "past_participle": "tended (ed)",
+    "ing": "tending",
+    "meaning": "tender",
+    "example": "She tended to the garden.",
+    "translation": "Ella atendió el jardín."
+  },
+  {
+    "base": "test",
+    "s_form": "tests",
+    "past": "tested (ed)",
+    "past_participle": "tested (ed)",
+    "ing": "testing",
+    "meaning": "probar",
+    "example": "They tested the software.",
+    "translation": "Ellos probaron el software."
+  },
+  {
+    "base": "thank",
+    "s_form": "thanks",
+    "past": "thanked (t)",
+    "past_participle": "thanked (t)",
+    "ing": "thanking",
+    "meaning": "agradecer",
+    "example": "I thanked him for his help.",
+    "translation": "Le agradecí por su ayuda."
+  },
+  {
+    "base": "think",
+    "s_form": "thinks",
+    "past": "thought (t)",
+    "past_participle": "thought (t)",
+    "ing": "thinking",
+    "meaning": "pensar",
+    "example": "She thought about the problem.",
+    "translation": "Ella pensó en el problema."
+  },
+  {
+    "base": "throw",
+    "s_form": "throws",
+    "past": "threw (d)",
+    "past_participle": "thrown (n)",
+    "ing": "throwing",
+    "meaning": "lanzar",
+    "example": "He threw the ball.",
+    "translation": "Él lanzó la pelota."
+  },
+  {
+    "base": "touch",
+    "s_form": "touches",
+    "past": "touched (t)",
+    "past_participle": "touched (t)",
+    "ing": "touching",
+    "meaning": "tocar",
+    "example": "She touched the painting.",
+    "translation": "Ella tocó la pintura."
+  },
+  {
+    "base": "train",
+    "s_form": "trains",
+    "past": "trained (d)",
+    "past_participle": "trained (d)",
+    "ing": "training",
+    "meaning": "entrenar",
+    "example": "He trained for the race.",
+    "translation": "Él entrenó para la carrera."
+  },
+  {
+    "base": "transfer",
+    "s_form": "transfers",
+    "past": "transferred (d)",
+    "past_participle": "transferred (d)",
+    "ing": "transferring",
+    "meaning": "transferir",
+    "example": "She transferred the funds.",
+    "translation": "Ella transfirió los fondos."
+  },
+  {
+    "base": "travel",
+    "s_form": "travels",
+    "past": "traveled (d)",
+    "past_participle": "traveled (d)",
+    "ing": "traveling",
+    "meaning": "viajar",
+    "example": "They traveled to Europe.",
+    "translation": "Ellos viajaron a Europa."
+  },
+  {
+    "base": "treat",
+    "s_form": "treats",
+    "past": "treated (ed)",
+    "past_participle": "treated (ed)",
+    "ing": "treating",
+    "meaning": "tratar",
+    "example": "The doctor treated the patient.",
+    "translation": "El doctor trató al paciente."
+  },
+  {
+    "base": "trust",
+    "s_form": "trusts",
+    "past": "trusted (ed)",
+    "past_participle": "trusted (ed)",
+    "ing": "trusting",
+    "meaning": "confiar",
+    "example": "She trusted her friend.",
+    "translation": "Ella confió en su amiga."
+  },
+  {
+    "base": "try",
+    "s_form": "tries",
+    "past": "tried (d)",
+    "past_participle": "tried (d)",
+    "ing": "trying",
+    "meaning": "intentar",
+    "example": "He tried to fix it.",
+    "translation": "Él intentó arreglarlo."
+  },
+  {
+    "base": "turn",
+    "s_form": "turns",
+    "past": "turned (d)",
+    "past_participle": "turned (d)",
+    "ing": "turning",
+    "meaning": "girar",
+    "example": "She turned left.",
+    "translation": "Ella giró a la izquierda."
+  },
+  {
+    "base": "understand",
+    "s_form": "understands",
+    "past": "understood (d)",
+    "past_participle": "understood (d)",
+    "ing": "understanding",
+    "meaning": "entender",
+    "example": "I understood the lesson.",
+    "translation": "Entendí la lección."
+  },
+  {
+    "base": "undertake",
+    "s_form": "undertakes",
+    "past": "undertook (t)",
+    "past_participle": "undertaken (n)",
+    "ing": "undertaking",
+    "meaning": "emprender",
+    "example": "She undertook a new project.",
+    "translation": "Ella emprendió un nuevo proyecto."
+  },
+  {
+    "base": "use",
+    "s_form": "uses",
+    "past": "used (d)",
+    "past_participle": "used (d)",
+    "ing": "using",
+    "meaning": "usar",
+    "example": "He used a computer.",
+    "translation": "Él usó una computadora."
+  },
+  {
+    "base": "value",
+    "s_form": "values",
+    "past": "valued (d)",
+    "past_participle": "valued (d)",
+    "ing": "valuing",
+    "meaning": "valorar",
+    "example": "She valued his opinion.",
+    "translation": "Ella valoró su opinión."
+  },
+  {
+    "base": "vary",
+    "s_form": "varies",
+    "past": "varied (d)",
+    "past_participle": "varied (d)",
+    "ing": "varying",
+    "meaning": "variar",
+    "example": "Prices varied by season.",
+    "translation": "Los precios variaron por temporada."
+  },
+  {
+    "base": "view",
+    "s_form": "views",
+    "past": "viewed (d)",
+    "past_participle": "viewed (d)",
+    "ing": "viewing",
+    "meaning": "ver",
+    "example": "They viewed the artwork.",
+    "translation": "Ellos vieron la obra de arte."
+  },
+  {
+    "base": "visit",
+    "s_form": "visits",
+    "past": "visited (ed)",
+    "past_participle": "visited (ed)",
+    "ing": "visiting",
+    "meaning": "visitar",
+    "example": "We visited the museum.",
+    "translation": "Visitamos el museo."
+  },
+  {
+    "base": "volunteer",
+    "s_form": "volunteers",
+    "past": "volunteered (d)",
+    "past_participle": "volunteered (d)",
+    "ing": "volunteering",
+    "meaning": "voluntariar",
+    "example": "He volunteered at the shelter.",
+    "translation": "Él se voluntarió en el refugio."
+  },
+  {
+    "base": "wait",
+    "s_form": "waits",
+    "past": "waited (ed)",
+    "past_participle": "waited (ed)",
+    "ing": "waiting",
+    "meaning": "esperar",
+    "example": "She waited for the bus.",
+    "translation": "Ella esperó el autobús."
+  },
+  {
+    "base": "walk",
+    "s_form": "walks",
+    "past": "walked (t)",
+    "past_participle": "walked (t)",
+    "ing": "walking",
+    "meaning": "caminar",
+    "example": "They walked to the park.",
+    "translation": "Ellos caminaron al parque."
+  },
+  {
+    "base": "want",
+    "s_form": "wants",
+    "past": "wanted (ed)",
+    "past_participle": "wanted (ed)",
+    "ing": "wanting",
+    "meaning": "querer",
+    "example": "I wanted some coffee.",
+    "translation": "Quería un poco de café."
+  },
+  {
+    "base": "warn",
+    "s_form": "warns",
+    "past": "warned (d)",
+    "past_participle": "warned (d)",
+    "ing": "warning",
+    "meaning": "advertir",
+    "example": "He warned us about the danger.",
+    "translation": "Él nos advirtió sobre el peligro."
+  },
+  {
+    "base": "wash",
+    "s_form": "washes",
+    "past": "washed (t)",
+    "past_participle": "washed (t)",
+    "ing": "washing",
+    "meaning": "lavar",
+    "example": "She washed the dishes.",
+    "translation": "Ella lavó los platos."
+  },
+  {
+    "base": "watch",
+    "s_form": "watches",
+    "past": "watched (t)",
+    "past_participle": "watched (t)",
+    "ing": "watching",
+    "meaning": "mirar",
+    "example": "We watched a movie.",
+    "translation": "Miramos una película."
+  },
+  {
+    "base": "wear",
+    "s_form": "wears",
+    "past": "wore (d)",
+    "past_participle": "worn (n)",
+    "ing": "wearing",
+    "meaning": "usar",
+    "example": "He wore a suit.",
+    "translation": "Él usó un traje."
+  },
+  {
+    "base": "welcome",
+    "s_form": "welcomes",
+    "past": "welcomed (d)",
+    "past_participle": "welcomed (d)",
+    "ing": "welcoming",
+    "meaning": "dar la bienvenida",
+    "example": "They welcomed the guests.",
+    "translation": "Ellos dieron la bienvenida a los invitados."
+  },
+  {
+    "base": "win",
+    "s_form": "wins",
+    "past": "won (n)",
+    "past_participle": "won (n)",
+    "ing": "winning",
+    "meaning": "ganar",
+    "example": "She won the competition.",
+    "translation": "Ella ganó la competencia."
+  },
+  {
+    "base": "wish",
+    "s_form": "wishes",
+    "past": "wished (t)",
+    "past_participle": "wished (t)",
+    "ing": "wishing",
+    "meaning": "desear",
+    "example": "I wished for happiness.",
+    "translation": "Deseé felicidad."
+  },
+  {
+    "base": "wonder",
+    "s_form": "wonders",
+    "past": "wondered (d)",
+    "past_participle": "wondered (d)",
+    "ing": "wondering",
+    "meaning": "preguntarse",
+    "example": "He wondered about the answer.",
+    "translation": "Él se preguntó sobre la respuesta."
+  },
+  {
+    "base": "work",
+    "s_form": "works",
+    "past": "worked (t)",
+    "past_participle": "worked (t)",
+    "ing": "working",
+    "meaning": "trabajar",
+    "example": "She worked hard.",
+    "translation": "Ella trabajó duro."
+  },
+  {
+    "base": "worry",
+    "s_form": "worries",
+    "past": "worried (d)",
+    "past_participle": "worried (d)",
+    "ing": "worrying",
+    "meaning": "preocuparse",
+    "example": "He worried about the test.",
+    "translation": "Él se preocupó por el examen."
+  },
+  {
+    "base": "write",
+    "s_form": "writes",
+    "past": "wrote (t)",
+    "past_participle": "written (n)",
+    "ing": "writing",
+    "meaning": "escribir",
+    "example": "I wrote a letter.",
+    "translation": "Escribí una carta."
+  }
+]
