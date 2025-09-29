@@ -1,28 +1,22 @@
 from rest_framework import status
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, permission_classes, authentication_classes
+from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from django.shortcuts import get_object_or_404
 from django.db.models import F
-import jwt
 from .models import Word, UserWord
 from users.models import CustomUser
 from .serializers import WordSerializer
 from users.serializers import CustomUserSerializer
+from utils.auth0_utils import auth0_required
 import random
 
 @api_view(['GET'])
+@authentication_classes([])
+@permission_classes([AllowAny])
+@auth0_required
 def get_word_for_user(request):
-    auth_header = request.META.get('HTTP_AUTHORIZATION')
-    if not auth_header or 'Bearer ' not in auth_header:
-        return Response({"error": "Authorization header no encontrado o mal formateado"}, status=status.HTTP_401_UNAUTHORIZED)
-
-    token = auth_header.split(' ')[1]
-
-    try:
-        decoded_token = jwt.decode(token, options={"verify_signature": False})
-        auth0_user_id = decoded_token.get('sub')
-    except jwt.DecodeError:
-        return Response({"error": "Token inválido"}, status=status.HTTP_400_BAD_REQUEST)
+    auth0_user_id = request.auth0_user.get('sub')
 
     try:
         user = CustomUser.objects.get(auth0_id=auth0_user_id)
@@ -30,7 +24,6 @@ def get_word_for_user(request):
         return Response({"error": "Usuario no encontrado"}, status=status.HTTP_404_NOT_FOUND)
 
     known_word_ids = UserWord.objects.filter(user=user).values_list('word__id', flat=True)
-
     unknown_words = Word.objects.exclude(id__in=known_word_ids)
 
     if not unknown_words.exists():
@@ -40,29 +33,19 @@ def get_word_for_user(request):
     serializer = WordSerializer(random_word)
     return Response(serializer.data, status=status.HTTP_200_OK)
 
-
-
 @api_view(['GET'])
+@authentication_classes([])
+@permission_classes([AllowAny])
+@auth0_required
 def get_user_words_by_status(request):
-    auth_header = request.META.get('HTTP_AUTHORIZATION')
-    if not auth_header or 'Bearer ' not in auth_header:
-        return Response({"error": "Authorization header no encontrado o mal formateado"}, status=status.HTTP_401_UNAUTHORIZED)
-    
-    token = auth_header.split(' ')[1]
+    auth0_user_id = request.auth0_user.get('sub')
 
-    try:
-        decoded_token = jwt.decode(token, options={"verify_signature": False})
-        auth0_user_id = decoded_token.get('sub')
-    except jwt.DecodeError:
-        return Response({"error": "Token invalido"}, status=status.HTTP_400_BAD_REQUEST)
-    
     try:
         requesting_user = CustomUser.objects.get(auth0_id=auth0_user_id)
     except CustomUser.DoesNotExist:
         return Response({"error": "Usuario no encontrado"}, status=status.HTTP_404_NOT_FOUND)
 
     status_filter = request.GET.get('status')
-
     user_words_queryset = UserWord.objects.filter(user=requesting_user).select_related('word')
 
     if status_filter:
@@ -92,27 +75,16 @@ def get_user_words_by_status(request):
             f"date_marked_{current_status}": user_word_entry.created_at,
             f"other_users_same_level_{current_status}_word": other_users_serializer.data
         }
-
         response_data.append(item)
 
     return Response(response_data, status=status.HTTP_200_OK)
 
-
-    
-
 @api_view(['POST'])
+@authentication_classes([])
+@permission_classes([AllowAny])
+@auth0_required
 def mark_user_word(request):
-    auth_header = request.META.get('HTTP_AUTHORIZATION')
-    if not auth_header or 'Bearer ' not in auth_header:
-        return Response({"error": "Authorization header no encontrado o mal formateado"}, status=status.HTTP_401_UNAUTHORIZED)
-
-    token = auth_header.split(' ')[1]
-
-    try:
-        decoded_token = jwt.decode(token, options={"verify_signature": False})
-        auth0_user_id = decoded_token.get('sub')
-    except jwt.DecodeError:
-        return Response({"error": "Token inválido"}, status=status.HTTP_400_BAD_REQUEST)
+    auth0_user_id = request.auth0_user.get('sub')
 
     try:
         user = CustomUser.objects.get(auth0_id=auth0_user_id)
@@ -129,7 +101,6 @@ def mark_user_word(request):
         return Response({"error": "El estado debe ser 'known' o 'used'"}, status=status.HTTP_400_BAD_REQUEST)
 
     word = get_object_or_404(Word, id=word_id)
-
     user_word_entry = UserWord.objects.filter(user=user, word=word).first()
 
     old_status_value = None
@@ -158,7 +129,11 @@ def mark_user_word(request):
     user.save()
     user.refresh_from_db()
 
-    if created:
-        return Response({"message": f"Palabra '{word.base}' marcada como '{new_status_value}' para el usuario '{user.username}'. Contadores actualizados.", "user_counts": {"known": user.words_known_count, "learned": user.words_learned_count}}, status=status.HTTP_201_CREATED)
-    else:
-        return Response({"message": f"Estado de la palabra '{word.base}' actualizado a '{new_status_value}' para el usuario '{user.username}'. Contadores actualizados.", "user_counts": {"known": user.words_known_count, "learned": user.words_learned_count}}, status=status.HTTP_200_OK)
+    msg = f"Palabra '{word.base}' marcada como '{new_status_value}' para el usuario '{user.username}'." if created else f"Estado de la palabra '{word.base}' actualizado a '{new_status_value}' para el usuario '{user.username}'."
+    return Response({
+        "message": msg,
+        "user_counts": {
+            "known": user.words_known_count,
+            "learned": user.words_learned_count
+        }
+    }, status=status.HTTP_201_CREATED if created else status.HTTP_200_OK)
