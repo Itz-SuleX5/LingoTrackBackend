@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: lingotrack-backend
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn backend.wsgi
+    build:
+      environment:
+        pythonVersion: 3.11
