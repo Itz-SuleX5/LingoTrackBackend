@@ -20,6 +20,9 @@ def validate_auth0_token(token):
 def auth0_required(f):
     @wraps(f)
     def decorated_function(request, *args, **kwargs):
+        if request.method == "OPTIONS":
+            return Response(status=status.HTTP_200_OK)
+
         auth_header = request.META.get('HTTP_AUTHORIZATION')
         if not auth_header or 'Bearer ' not in auth_header:
             return Response(
