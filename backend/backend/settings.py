@@ -4,7 +4,6 @@ import json
 import dj_database_url
 from dotenv import load_dotenv
 
-# Cargar variables de entorno desde .env
 load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -13,7 +12,15 @@ SECRET_KEY = os.getenv("DJANGO_SECRET_KEY", "django-insecure-default-key")
 DEBUG = os.getenv("DEBUG", "True") == "True"
 ENVIRONMENT = os.getenv("ENVIRONMENT", "local")
 
-ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "").split(",") if not DEBUG else ["*"]
+# Hosts permitidos
+if DEBUG:
+    ALLOWED_HOSTS = ["*"]
+else:
+    ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "").split(",")
+
+# CORS dinámico
+CORS_ALLOWED_ORIGINS = json.loads(os.getenv("CORS_ALLOWED_ORIGINS", '["http://localhost:5173"]'))
+CORS_ALLOW_CREDENTIALS = True
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -40,15 +47,6 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
-    "http://localhost:3000",
-]
-
-# Si necesitas cargar desde variable de entorno, usar esto en producción:
-# CORS_ALLOWED_ORIGINS = json.loads(os.getenv("CORS_ALLOWED_ORIGINS", '["http://localhost:5173"]'))
-
-# Agregar logging para debugging
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -101,6 +99,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'backend.wsgi.application'
 
+# DB config
 if ENVIRONMENT == "production":
     DATABASES = {
         "default": dj_database_url.config(
@@ -134,7 +133,7 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# Auth0 Configuration
+# Auth0
 AUTH0_DOMAIN = os.getenv("AUTH0_DOMAIN")
 AUTH0_API_IDENTIFIER = os.getenv("AUTH0_API_IDENTIFIER")
 
